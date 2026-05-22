@@ -1,0 +1,3001 @@
+Has_Singleton,Has_Object_Creation,Has_Interface,Has_Composition,Has_Polymorphism,Has_Decoupling,Has_Wrapping,Has_Notification,Pattern_Name
+1,0,1,1,0,0,0,0,Singleton
+1,1,0,1,1,1,0,1,Visitor
+0,0,1,1,0,0,0,0,Builder
+1,0,1,0,0,0,0,1,Composite
+0,1,1,1,1,1,0,0,Adapter
+1,1,1,0,1,0,0,1,Strategy
+1,0,0,1,0,0,0,1,Iterator
+1,0,0,1,0,0,0,0,State
+0,0,0,0,1,0,0,1,Composite
+0,0,0,1,1,1,1,0,Composite
+1,1,1,1,1,1,1,1,Template Method
+1,0,0,0,1,1,1,1,Bridge
+1,1,1,1,1,1,1,1,Adapter
+0,1,1,0,0,0,1,1,Facade
+1,1,0,1,1,1,0,0,Proxy
+1,1,0,1,1,0,1,0,Prototype
+1,1,1,1,0,1,1,0,Singleton
+1,0,0,0,0,1,0,1,Command
+0,1,1,0,1,1,0,0,Proxy
+0,1,1,0,0,0,1,0,Factory Method
+0,1,0,1,0,1,1,1,Builder
+0,0,1,0,0,1,1,0,Visitor
+1,0,0,0,0,1,1,1,Mediator
+1,0,0,0,1,1,0,1,Singleton
+1,0,1,0,0,1,1,1,Singleton
+0,1,0,0,1,0,1,1,Mediator
+0,0,1,0,0,0,1,0,State
+1,0,0,0,1,1,1,0,Bridge
+1,1,1,0,1,1,1,1,Observer
+0,1,1,0,0,1,1,0,Memento
+0,0,0,0,1,1,1,0,Composite
+1,0,1,0,1,0,1,0,Strategy
+0,0,0,0,1,1,0,1,Flyweight
+1,1,0,1,1,0,1,1,Strategy
+0,0,0,1,1,1,1,1,Observer
+0,1,1,0,0,1,0,0,Chain of Responsibility
+0,0,0,1,0,1,1,1,Memento
+0,0,1,0,1,1,0,0,Abstract Factory
+0,0,1,1,1,1,1,0,Flyweight
+0,1,0,1,0,0,0,1,Visitor
+0,0,1,0,1,1,0,0,Strategy
+0,1,0,1,1,0,0,1,Flyweight
+0,1,0,1,0,1,0,1,Command
+1,1,0,0,0,1,0,1,Observer
+1,1,0,0,0,1,1,0,Singleton
+1,1,0,1,0,1,0,1,Bridge
+1,0,1,1,1,1,0,1,Command
+0,0,0,0,1,0,1,1,Mediator
+0,0,0,0,1,0,1,1,Iterator
+1,1,0,1,1,1,1,1,Command
+0,1,0,1,0,0,0,1,Prototype
+0,0,0,0,1,1,1,0,Prototype
+1,0,0,1,1,1,0,1,Composite
+1,0,1,1,0,1,1,0,Flyweight
+1,1,0,0,0,1,1,0,Command
+0,1,1,1,0,1,1,1,Adapter
+0,1,1,0,1,0,1,0,Prototype
+0,0,1,0,0,1,1,1,Bridge
+1,0,0,1,1,0,0,0,Mediator
+0,0,1,1,0,1,1,0,Prototype
+0,1,1,1,0,0,0,0,Facade
+1,1,1,1,1,0,0,0,Mediator
+1,0,1,1,1,0,0,1,Abstract Factory
+0,1,0,0,0,1,0,1,Command
+0,0,0,1,0,1,0,1,Template Method
+0,0,1,1,1,0,1,1,Adapter
+1,1,1,1,1,1,0,1,Strategy
+0,1,1,0,0,1,1,1,Adapter
+0,0,1,0,1,1,1,0,Flyweight
+0,0,1,1,1,1,0,1,Chain of Responsibility
+1,0,1,1,0,0,0,1,Abstract Factory
+0,0,1,1,1,0,0,0,Template Method
+0,1,0,1,1,1,1,0,Flyweight
+1,0,1,0,0,0,1,1,Composite
+0,1,1,0,0,0,0,1,Adapter
+0,1,0,0,1,1,1,1,Strategy
+1,0,0,0,1,1,0,1,Singleton
+1,1,1,1,0,1,0,0,Singleton
+0,1,0,0,1,1,0,1,Interpreter
+0,0,0,1,0,0,1,1,Template Method
+0,1,1,1,1,0,0,1,Prototype
+1,1,1,0,1,0,1,0,Singleton
+1,1,1,1,0,1,0,1,Observer
+1,0,1,1,0,0,1,0,Singleton
+1,1,1,0,1,0,1,1,Adapter
+0,1,1,1,1,1,1,0,Decorator
+0,0,0,0,0,0,1,1,Interpreter
+1,1,0,1,0,0,1,0,Proxy
+0,0,1,0,0,0,0,1,Interpreter
+0,1,1,0,1,1,0,1,Adapter
+0,1,0,0,0,1,1,1,Template Method
+0,1,1,1,1,1,0,0,Adapter
+0,1,0,0,0,0,0,0,Composite
+1,1,1,0,0,1,0,0,State
+0,0,0,0,1,1,0,1,Observer
+1,1,0,1,1,1,0,1,Chain of Responsibility
+1,0,0,0,1,1,1,0,Proxy
+0,1,1,1,1,0,0,1,Visitor
+0,1,0,0,1,0,1,0,Strategy
+0,0,1,1,0,0,1,1,Facade
+0,0,1,0,1,1,1,1,Bridge
+0,0,1,1,1,1,0,0,Visitor
+1,0,1,1,1,1,1,0,Prototype
+0,0,0,1,1,1,0,1,Builder
+0,0,0,0,1,1,1,0,Bridge
+0,1,1,0,0,1,0,1,Factory Method
+0,0,0,1,1,1,1,0,Strategy
+0,0,1,1,1,0,1,1,Facade
+0,0,1,0,0,1,0,1,Bridge
+0,0,1,1,0,1,0,0,Adapter
+0,0,1,0,0,0,0,1,Flyweight
+0,1,1,1,1,0,0,0,Memento
+0,1,1,1,1,1,0,1,Factory Method
+0,1,1,1,1,0,0,0,Template Method
+0,0,1,1,1,0,0,0,Flyweight
+0,0,0,1,1,1,1,1,Flyweight
+1,1,1,0,0,0,0,1,Interpreter
+1,1,1,1,1,1,1,1,Decorator
+0,0,1,1,1,1,1,1,Decorator
+0,0,0,1,1,1,0,1,Builder
+1,0,1,1,1,1,0,0,Strategy
+0,0,1,1,0,1,0,0,Adapter
+0,1,1,1,1,0,0,0,Facade
+1,0,1,0,1,1,0,1,Singleton
+0,1,0,0,0,1,0,0,State
+1,1,1,0,0,0,1,1,Adapter
+1,1,0,1,0,1,0,0,Template Method
+1,0,0,0,0,0,0,0,Proxy
+0,1,0,0,1,0,0,1,State
+0,0,1,1,1,1,1,1,Adapter
+1,0,1,1,1,1,1,1,Command
+1,1,1,1,1,0,0,1,Factory Method
+1,0,1,1,0,1,1,0,Adapter
+1,1,1,1,0,0,0,0,Abstract Factory
+0,1,1,1,1,0,0,1,Interpreter
+1,1,0,0,1,0,1,0,Flyweight
+1,1,0,0,0,0,0,1,State
+1,0,1,1,0,0,0,1,Adapter
+0,1,1,1,0,0,1,0,Iterator
+1,0,1,1,1,0,0,1,Prototype
+0,0,0,1,1,1,0,1,Prototype
+0,1,0,1,1,0,1,0,Template Method
+1,0,1,0,1,0,1,1,Builder
+0,0,0,0,0,0,1,0,Memento
+0,0,0,0,0,1,0,1,Observer
+0,0,0,0,1,0,0,1,Builder
+1,0,0,0,1,0,1,0,Builder
+1,1,0,1,1,1,1,1,Composite
+0,0,0,1,1,1,0,0,Bridge
+0,0,1,0,0,0,0,1,Interpreter
+1,1,0,1,0,0,0,1,Proxy
+0,1,1,0,1,1,0,0,Visitor
+0,1,1,0,0,0,0,0,Facade
+1,1,1,0,1,0,1,0,Interpreter
+0,0,1,0,0,0,1,1,Proxy
+1,0,0,1,0,0,1,1,Builder
+1,1,1,1,0,1,1,1,Visitor
+1,0,1,1,1,1,1,0,Abstract Factory
+0,0,0,1,1,1,1,0,Memento
+0,1,1,0,1,1,1,1,Command
+0,1,1,0,0,1,1,0,Factory Method
+0,0,1,1,0,0,0,1,Memento
+1,0,1,1,1,1,0,0,Adapter
+1,0,1,1,0,1,0,0,Memento
+0,1,0,1,1,1,0,1,Command
+0,0,1,0,0,0,1,0,State
+0,0,1,1,1,1,0,0,Abstract Factory
+0,0,0,0,1,1,0,0,Composite
+1,1,0,1,1,0,0,0,Proxy
+0,1,0,1,1,0,1,1,Decorator
+0,1,1,1,0,1,0,1,Chain of Responsibility
+0,1,1,1,1,1,1,0,Bridge
+0,0,1,1,1,1,0,0,Adapter
+1,0,1,1,1,1,0,1,Observer
+0,1,0,1,0,0,1,1,State
+1,0,1,0,1,1,0,1,Prototype
+0,0,1,1,0,0,1,0,Composite
+0,0,0,0,0,1,1,0,Prototype
+0,0,1,0,1,1,1,0,Command
+1,1,0,1,0,1,1,1,Bridge
+0,0,1,0,1,1,0,1,Composite
+0,0,1,1,0,1,0,0,Command
+1,0,1,1,1,0,1,0,Facade
+0,0,1,0,1,0,0,1,Proxy
+1,1,1,0,1,0,0,1,Facade
+1,1,1,0,0,1,1,0,Chain of Responsibility
+0,0,0,0,1,1,1,1,Mediator
+1,1,0,0,1,0,1,0,Proxy
+1,1,1,1,1,0,1,0,Builder
+1,1,0,1,1,0,1,0,Visitor
+1,0,1,1,0,0,1,1,Facade
+0,0,0,1,0,0,1,1,Memento
+1,0,0,0,1,1,0,0,Chain of Responsibility
+1,1,0,0,0,0,1,0,Iterator
+0,1,1,0,0,0,1,1,Abstract Factory
+1,0,0,0,0,1,1,1,Chain of Responsibility
+1,1,0,1,0,1,1,1,Builder
+1,0,1,0,0,1,1,0,Builder
+1,0,1,0,0,0,0,0,Prototype
+0,0,1,1,1,0,1,0,Decorator
+1,0,0,0,1,1,0,1,Strategy
+0,0,1,0,0,0,1,1,Abstract Factory
+1,1,1,0,1,1,1,1,Proxy
+1,0,1,0,0,1,1,0,Memento
+0,0,1,1,0,0,1,0,Facade
+1,1,1,1,0,0,1,0,Template Method
+0,1,0,1,1,1,1,1,Decorator
+0,0,0,0,1,1,0,1,Observer
+1,0,0,0,0,1,0,1,Bridge
+0,1,0,0,0,1,0,0,Chain of Responsibility
+1,0,1,0,0,1,1,1,Command
+1,0,0,0,1,1,1,0,Template Method
+1,1,1,0,0,0,0,1,Template Method
+1,0,0,0,0,1,0,0,Command
+1,1,1,0,1,0,0,0,Proxy
+1,0,1,1,0,1,1,1,Decorator
+0,1,1,1,1,0,1,1,Memento
+1,1,1,0,1,1,0,1,Template Method
+0,0,1,0,1,1,1,0,Command
+1,0,0,1,0,0,1,1,Prototype
+0,1,1,0,0,1,0,0,Factory Method
+0,1,1,0,1,1,1,0,Adapter
+1,1,1,0,1,1,1,1,Command
+1,1,0,0,1,1,1,1,Singleton
+1,0,1,1,1,1,1,0,Facade
+0,0,0,1,0,0,1,1,Decorator
+0,1,0,0,0,0,1,0,Template Method
+0,0,0,0,1,1,0,1,Visitor
+0,1,0,1,0,1,0,0,Chain of Responsibility
+0,1,0,0,0,1,0,0,Visitor
+1,0,0,0,0,0,1,0,Flyweight
+1,0,1,0,1,1,1,1,Singleton
+0,1,0,0,0,1,1,0,Builder
+0,1,1,1,0,0,0,1,Factory Method
+1,0,0,0,0,1,1,0,Iterator
+0,1,1,0,0,0,1,0,Facade
+1,0,1,1,0,1,1,0,Visitor
+1,1,1,0,1,1,1,1,Observer
+0,1,1,0,0,0,1,0,Abstract Factory
+1,0,0,1,0,1,0,1,Command
+1,0,0,0,1,0,0,1,Builder
+1,1,1,1,1,0,1,0,Decorator
+0,0,1,0,1,0,1,0,Abstract Factory
+0,1,0,1,1,1,1,1,Decorator
+0,1,1,1,0,1,1,0,Bridge
+0,1,1,1,0,0,0,1,Proxy
+0,1,1,1,0,1,0,1,Abstract Factory
+1,0,1,0,1,0,1,0,Abstract Factory
+0,0,1,1,0,1,0,0,Bridge
+1,1,0,0,0,0,1,0,Flyweight
+0,1,1,1,0,1,0,1,Memento
+0,0,0,1,0,1,0,0,Interpreter
+0,1,1,0,0,0,0,1,Facade
+0,0,1,0,1,0,1,1,Adapter
+1,1,0,1,0,1,1,1,Bridge
+0,0,1,0,1,0,1,1,Template Method
+0,0,0,1,0,1,1,1,Chain of Responsibility
+1,1,0,0,1,1,0,0,Strategy
+0,0,0,0,0,1,0,0,Builder
+0,1,0,1,0,1,1,0,Visitor
+0,0,1,1,1,0,1,1,Decorator
+1,1,1,1,1,0,1,0,Memento
+0,0,1,0,0,1,1,1,Builder
+0,0,1,1,0,1,0,1,Command
+0,0,0,1,1,1,1,0,Prototype
+0,0,0,0,0,1,1,1,Proxy
+1,0,1,0,1,1,1,1,Mediator
+0,0,0,1,1,0,1,0,Flyweight
+1,1,1,0,1,1,0,0,Strategy
+1,1,1,1,1,0,1,1,Singleton
+1,1,0,1,0,1,0,0,Chain of Responsibility
+0,0,1,0,0,0,0,1,Adapter
+1,1,1,0,1,1,0,1,Factory Method
+0,0,1,0,1,0,1,1,Strategy
+0,0,1,1,1,1,1,0,Strategy
+0,1,0,0,0,1,1,0,Chain of Responsibility
+1,1,1,1,1,1,0,1,Builder
+0,0,1,0,0,1,1,0,Proxy
+0,0,0,0,0,1,1,0,Interpreter
+1,1,0,1,1,0,0,1,Composite
+1,1,0,1,1,1,0,1,Bridge
+0,1,1,0,1,1,1,0,Bridge
+0,0,1,0,1,1,0,1,Facade
+1,0,1,0,1,1,0,1,Observer
+0,1,1,1,1,1,1,0,Bridge
+0,0,0,1,0,1,0,1,Builder
+1,1,0,0,0,0,1,1,Template Method
+1,1,1,1,1,1,1,1,Builder
+0,1,1,0,0,0,1,1,Composite
+0,1,1,1,1,1,1,1,Interpreter
+0,0,1,1,1,0,1,0,State
+1,1,0,1,1,0,0,0,Template Method
+1,0,0,0,0,1,0,1,Composite
+0,1,0,0,1,0,0,0,Template Method
+0,1,0,0,0,1,0,1,Command
+1,0,1,1,0,1,1,0,Mediator
+0,0,1,1,0,1,1,1,Memento
+1,0,1,0,0,1,0,1,Abstract Factory
+1,1,0,1,0,1,0,0,Command
+0,1,0,0,1,1,1,0,Command
+1,1,1,1,1,1,1,0,Strategy
+0,1,0,0,1,0,1,0,Prototype
+1,1,0,1,1,1,1,0,Bridge
+0,0,1,1,1,1,0,1,Proxy
+1,0,1,0,0,0,0,0,Flyweight
+0,0,1,0,1,1,0,0,Iterator
+0,0,0,1,0,0,0,1,Iterator
+0,0,0,1,0,1,0,1,State
+0,1,1,1,0,0,0,1,Factory Method
+0,0,1,0,0,1,0,1,Proxy
+0,0,0,0,1,1,1,1,Iterator
+0,0,0,1,1,0,0,1,Composite
+0,1,1,0,1,1,1,0,Composite
+0,0,0,0,0,1,0,0,Command
+1,1,1,1,0,1,0,1,State
+0,0,1,0,1,1,0,0,Template Method
+0,0,1,0,1,1,0,0,Proxy
+0,1,0,0,0,1,1,1,Proxy
+0,1,0,0,0,1,0,0,Builder
+1,0,1,0,1,0,0,0,Mediator
+1,1,1,1,1,0,1,0,Decorator
+1,1,1,1,1,1,0,0,Command
+1,0,1,0,0,0,0,0,Prototype
+1,1,1,1,0,1,0,0,Factory Method
+0,0,1,0,1,1,1,0,Memento
+0,0,1,1,1,1,1,0,Composite
+1,0,0,0,1,0,1,1,Interpreter
+1,0,1,1,0,1,0,0,Bridge
+0,0,1,1,1,1,0,1,Memento
+1,0,1,1,0,1,1,1,Proxy
+1,0,0,0,1,0,0,0,Interpreter
+0,0,0,1,1,0,1,1,Memento
+0,0,1,0,0,1,1,1,Bridge
+1,1,1,0,1,1,0,0,Strategy
+1,1,1,1,0,1,1,1,Facade
+0,1,1,1,1,1,1,1,Decorator
+0,1,0,0,1,0,1,1,Composite
+0,1,0,1,1,1,0,0,Proxy
+1,1,0,0,1,1,1,0,Mediator
+1,1,1,0,0,1,0,1,Adapter
+0,0,0,1,1,0,1,0,Visitor
+1,0,1,1,0,0,0,0,Flyweight
+1,1,0,0,1,1,0,0,Bridge
+1,0,1,0,1,1,0,1,Observer
+0,1,1,1,1,0,1,0,Mediator
+0,1,1,0,0,1,1,0,Facade
+0,1,0,1,0,1,0,1,Chain of Responsibility
+1,1,0,1,1,0,0,1,Memento
+0,0,1,0,0,1,1,0,Visitor
+0,0,1,0,1,0,1,0,Abstract Factory
+0,0,0,0,1,0,1,1,Proxy
+1,0,0,0,0,1,0,1,Visitor
+1,0,0,0,0,1,0,1,Mediator
+1,0,1,1,0,1,1,1,Interpreter
+1,0,0,1,1,1,1,0,Strategy
+0,0,1,0,1,0,1,0,Visitor
+1,1,0,1,1,1,1,1,Chain of Responsibility
+1,0,1,1,0,0,0,1,Abstract Factory
+0,1,1,1,0,1,1,1,Decorator
+1,1,1,0,1,1,0,1,Proxy
+0,0,1,1,0,1,0,0,Command
+1,0,1,1,1,1,0,0,Strategy
+1,0,1,0,1,0,1,1,Strategy
+1,0,1,1,0,0,1,0,Facade
+1,0,1,0,0,1,1,0,Composite
+1,1,1,1,0,1,1,1,Builder
+1,0,0,0,1,0,1,1,Prototype
+1,0,1,1,1,1,0,1,Adapter
+0,1,1,0,1,1,0,0,Chain of Responsibility
+0,0,0,1,1,1,0,1,Prototype
+0,1,1,1,0,1,0,0,State
+0,0,1,0,1,1,1,1,Observer
+0,0,1,0,1,0,1,1,Abstract Factory
+1,1,1,0,0,1,0,0,Chain of Responsibility
+1,1,1,0,1,1,1,1,Factory Method
+0,1,1,1,0,1,1,0,Iterator
+1,1,1,0,1,1,0,0,Builder
+1,0,1,0,0,0,1,0,Singleton
+0,0,1,1,0,1,0,1,Chain of Responsibility
+1,0,1,0,1,0,0,1,Abstract Factory
+1,1,1,1,0,1,0,1,Iterator
+0,0,0,0,0,1,1,0,Flyweight
+1,0,1,1,1,0,1,1,Facade
+1,1,0,1,1,0,1,1,Decorator
+1,1,0,0,1,0,0,0,Visitor
+1,1,1,0,1,1,0,1,Mediator
+0,1,1,1,1,0,1,0,Facade
+1,1,0,0,0,1,1,1,Builder
+1,0,1,1,0,0,1,0,Facade
+1,0,1,0,1,0,0,0,Adapter
+0,0,0,0,1,0,1,1,Strategy
+0,1,1,0,0,1,1,1,Interpreter
+1,1,1,1,1,0,1,1,Prototype
+0,1,1,1,1,1,0,0,State
+0,0,1,1,0,0,1,1,Adapter
+1,0,0,0,0,1,1,0,State
+1,0,0,1,1,0,1,0,Visitor
+1,1,0,1,1,1,0,1,Template Method
+1,0,1,0,1,1,0,1,Chain of Responsibility
+0,0,0,1,0,1,0,0,Mediator
+1,0,1,0,1,1,1,0,Memento
+0,0,1,1,1,1,0,1,Chain of Responsibility
+0,0,0,0,1,0,0,1,Composite
+0,1,0,1,1,0,1,1,Interpreter
+0,1,1,0,1,0,0,0,Memento
+0,1,1,1,0,1,0,1,Observer
+0,1,1,1,0,1,1,0,Mediator
+0,0,0,1,1,0,1,1,Flyweight
+0,1,1,1,1,1,1,0,Flyweight
+1,1,1,1,1,0,1,0,Factory Method
+0,1,0,1,0,0,0,0,Proxy
+1,0,1,0,0,0,0,1,Prototype
+0,1,0,1,1,1,1,0,Prototype
+1,1,1,1,0,0,1,1,Builder
+0,1,1,1,1,0,0,0,Adapter
+1,1,0,0,0,0,1,0,Interpreter
+0,1,0,1,0,1,1,0,Decorator
+1,0,1,1,0,0,1,1,Visitor
+1,0,1,0,0,1,1,0,Flyweight
+1,1,0,1,0,1,0,1,Mediator
+1,1,0,0,0,1,0,0,Builder
+0,1,1,0,0,1,0,0,Visitor
+0,0,0,1,0,0,0,0,Proxy
+1,1,1,1,1,1,1,0,Factory Method
+1,0,1,1,1,0,1,1,Composite
+1,0,0,1,1,0,0,0,State
+0,0,1,1,1,1,0,1,Memento
+0,1,1,0,0,1,1,0,Facade
+0,0,0,1,0,1,1,0,Prototype
+1,1,0,1,1,0,0,1,Visitor
+0,1,1,0,0,1,1,1,Abstract Factory
+1,1,0,1,1,0,1,0,Strategy
+1,1,1,0,0,0,0,1,Factory Method
+0,1,1,0,0,1,1,1,Facade
+1,0,1,0,0,0,0,1,Prototype
+0,1,1,1,1,1,1,1,Visitor
+0,1,1,1,1,0,1,0,Iterator
+0,1,0,1,1,1,1,0,Visitor
+1,1,1,0,0,0,0,1,Visitor
+1,1,1,1,0,1,1,1,Command
+1,0,1,0,1,1,1,0,Visitor
+1,1,1,0,0,0,1,0,Factory Method
+1,0,0,0,1,1,0,0,Bridge
+1,0,1,1,1,1,1,0,Facade
+1,1,1,1,0,1,1,0,Abstract Factory
+1,0,1,0,0,1,0,1,Chain of Responsibility
+0,1,0,0,0,1,0,1,Command
+1,1,1,0,1,1,1,1,Bridge
+0,1,0,0,1,0,1,1,Flyweight
+0,0,1,1,1,1,1,0,Proxy
+0,0,1,1,0,0,1,1,Adapter
+1,1,1,1,0,1,1,1,Adapter
+1,1,1,0,1,0,0,1,Facade
+1,1,1,0,0,1,1,0,Visitor
+0,0,0,0,0,1,1,1,Command
+0,0,0,0,1,0,1,1,Mediator
+0,1,1,0,0,1,1,0,Facade
+0,1,0,1,0,1,0,1,Observer
+1,1,0,1,1,0,1,0,Decorator
+1,1,1,0,1,1,1,1,Abstract Factory
+1,1,1,0,0,1,0,1,Facade
+0,0,1,0,1,0,0,1,Adapter
+1,1,1,0,1,0,1,1,Flyweight
+1,0,0,0,0,0,1,1,Builder
+1,0,0,1,0,1,0,0,State
+0,0,0,0,1,1,0,0,Chain of Responsibility
+0,0,0,1,0,1,1,0,Proxy
+1,0,1,1,0,0,0,1,Template Method
+1,1,1,0,1,1,1,0,Factory Method
+1,1,0,1,0,1,1,1,Decorator
+0,0,1,1,1,0,0,1,Template Method
+0,0,1,0,0,0,1,0,Facade
+0,0,1,1,1,0,1,0,Template Method
+0,0,1,1,1,0,1,1,State
+1,0,1,1,0,1,1,0,Facade
+1,0,1,0,0,0,1,1,Template Method
+0,0,1,0,1,1,1,1,Strategy
+0,0,1,0,1,0,1,1,Strategy
+0,1,1,0,0,1,0,0,Mediator
+0,1,0,0,1,0,1,0,Strategy
+1,1,0,1,0,0,0,1,Prototype
+1,1,0,0,1,1,1,0,Iterator
+1,1,0,0,0,1,1,1,Prototype
+1,1,1,1,0,0,1,0,Factory Method
+1,0,1,1,1,1,1,1,Observer
+1,0,1,1,0,1,0,1,Composite
+1,0,1,1,0,0,1,0,Builder
+0,1,0,1,0,0,0,0,State
+0,1,1,1,0,0,0,0,Composite
+0,1,1,0,0,0,1,1,Builder
+1,0,1,0,1,0,1,0,Adapter
+1,1,0,1,1,0,0,0,Interpreter
+1,0,1,1,0,0,0,0,Facade
+1,1,1,0,1,1,1,1,Bridge
+0,0,1,1,1,0,1,1,Visitor
+0,0,1,1,1,0,1,0,Adapter
+1,0,1,1,1,1,1,1,Chain of Responsibility
+0,0,1,1,1,1,0,0,Visitor
+0,0,1,1,1,1,0,0,Facade
+0,0,0,0,1,1,1,1,Observer
+1,1,1,1,0,0,1,1,Facade
+1,1,1,0,1,1,1,1,State
+1,1,1,1,1,1,0,0,Builder
+0,1,1,1,0,0,0,1,Factory Method
+1,1,0,0,1,0,0,1,Visitor
+1,0,1,0,1,0,0,1,Visitor
+0,1,1,0,0,1,1,0,Command
+1,1,1,1,0,1,0,1,Singleton
+1,0,0,0,1,1,1,0,Prototype
+0,0,0,0,1,0,1,1,Prototype
+0,1,1,1,1,1,1,1,Memento
+1,1,1,1,0,1,1,0,Abstract Factory
+0,0,1,1,1,0,1,0,Adapter
+0,1,0,0,0,1,1,1,Flyweight
+1,0,1,1,0,1,0,0,Chain of Responsibility
+1,1,1,1,1,1,1,0,Prototype
+0,0,1,1,1,1,1,1,Abstract Factory
+1,1,0,1,0,0,0,1,Composite
+1,1,1,1,1,1,0,0,Command
+0,1,1,1,1,1,0,0,Bridge
+1,1,1,1,0,0,1,1,Builder
+1,0,0,1,1,1,0,1,Bridge
+0,1,1,1,0,0,0,0,Adapter
+1,0,0,0,1,0,1,0,Strategy
+1,1,0,0,0,1,1,0,Bridge
+1,0,1,0,0,0,0,0,Proxy
+0,0,0,1,0,1,1,0,Builder
+0,1,0,1,1,0,1,0,Visitor
+1,0,1,1,1,1,1,0,Chain of Responsibility
+0,1,1,0,1,1,1,0,Chain of Responsibility
+0,0,1,0,0,0,1,0,Prototype
+1,0,1,0,0,1,1,1,Chain of Responsibility
+1,1,1,0,1,0,1,1,Builder
+1,0,0,0,0,1,0,1,Observer
+0,0,1,1,1,1,0,0,Bridge
+0,0,1,1,0,1,1,0,State
+0,0,1,0,0,0,0,0,Abstract Factory
+1,0,1,0,1,1,1,1,Visitor
+1,0,1,0,1,0,0,1,Facade
+1,0,0,1,1,0,0,1,Flyweight
+1,1,0,1,1,0,1,1,Flyweight
+0,0,1,1,0,1,1,0,Decorator
+1,1,1,0,1,1,1,1,Memento
+0,1,1,1,0,0,0,0,Interpreter
+1,1,0,0,1,1,0,0,Prototype
+1,1,1,1,0,1,1,1,Factory Method
+1,0,0,0,0,1,1,0,Chain of Responsibility
+1,1,1,0,0,1,1,0,Iterator
+1,1,0,1,0,1,1,1,Template Method
+1,1,1,0,1,0,0,1,Memento
+0,0,1,0,0,1,1,1,Builder
+1,1,1,0,1,1,1,1,Command
+1,0,0,1,0,1,1,0,Template Method
+1,1,1,1,0,1,0,1,Proxy
+0,1,1,0,1,1,1,0,Prototype
+1,0,1,1,0,1,0,0,Command
+0,1,1,0,0,1,1,1,Command
+0,0,1,0,1,0,1,1,Composite
+1,1,1,1,0,1,1,0,Adapter
+1,1,1,1,0,1,1,1,Abstract Factory
+1,1,1,1,1,0,1,1,State
+1,1,0,1,0,1,1,0,Decorator
+0,0,1,0,1,1,0,0,Composite
+1,1,1,0,1,1,1,1,Prototype
+1,1,1,0,0,1,0,1,Memento
+0,0,0,1,1,1,1,0,Decorator
+0,1,1,0,1,1,1,1,Observer
+1,0,1,0,0,1,0,0,Memento
+1,0,0,0,1,1,0,1,Composite
+1,0,1,0,0,0,0,0,Singleton
+0,1,1,1,0,0,0,1,Facade
+0,1,0,1,0,1,1,0,Template Method
+0,0,1,0,0,1,1,1,Visitor
+0,1,1,0,0,0,1,1,Factory Method
+1,0,1,0,1,1,0,1,Interpreter
+0,1,1,1,0,0,0,1,Iterator
+1,1,1,1,0,1,0,1,Command
+1,1,1,1,0,1,0,0,Composite
+0,0,1,0,1,0,0,1,Flyweight
+1,1,1,0,0,0,1,1,Builder
+1,1,1,1,1,0,1,0,Mediator
+1,0,1,1,0,1,1,0,Flyweight
+0,1,1,1,0,0,0,0,Adapter
+0,0,1,1,0,0,1,1,Iterator
+1,1,1,1,0,1,1,1,Prototype
+0,0,1,1,1,1,0,1,Facade
+1,1,1,1,0,0,1,0,Adapter
+0,0,1,0,0,1,1,1,Facade
+0,1,0,0,0,1,0,1,Builder
+0,0,0,1,0,1,1,1,Mediator
+1,1,0,1,1,1,0,1,Composite
+0,0,1,0,1,1,1,1,Abstract Factory
+0,0,0,1,0,1,0,1,Observer
+1,1,1,1,1,0,1,0,Adapter
+1,1,1,0,1,1,0,0,Abstract Factory
+1,0,1,0,1,0,0,0,Template Method
+0,1,1,1,0,0,0,0,Abstract Factory
+0,1,1,0,0,1,0,1,Prototype
+0,0,0,0,0,1,1,1,Observer
+0,1,1,0,1,1,1,1,Abstract Factory
+0,0,0,0,0,1,1,0,State
+1,1,0,1,1,0,0,1,Mediator
+1,0,1,0,1,0,0,0,Flyweight
+0,1,0,0,1,1,1,0,Strategy
+0,1,1,1,1,1,1,1,Decorator
+1,1,1,0,1,1,0,1,Composite
+1,1,0,0,1,1,0,1,Builder
+0,0,1,1,0,1,0,1,Iterator
+1,1,0,0,1,0,1,1,Composite
+0,0,1,1,1,1,0,1,Iterator
+0,0,1,0,0,1,1,0,Proxy
+0,0,0,0,0,1,1,1,Chain of Responsibility
+1,0,1,0,0,1,1,1,Command
+1,1,1,0,0,0,0,1,Iterator
+1,1,0,1,0,1,0,0,Proxy
+1,0,1,1,0,0,1,1,Adapter
+1,1,1,1,1,1,0,1,Bridge
+0,0,0,1,0,0,1,0,Template Method
+1,1,1,1,0,1,0,1,Bridge
+1,0,1,1,0,0,1,0,Composite
+0,0,0,0,0,1,1,0,Visitor
+1,0,0,1,1,1,0,1,Singleton
+0,1,0,1,1,1,1,0,Bridge
+0,1,1,1,0,1,0,1,Factory Method
+1,1,0,0,0,1,1,0,Iterator
+0,1,1,1,1,1,1,0,Visitor
+0,1,0,0,0,0,1,1,Flyweight
+0,0,1,1,1,0,1,1,Facade
+1,1,1,1,1,1,1,0,Bridge
+1,1,1,1,0,1,1,0,Composite
+1,1,1,0,0,0,0,1,Abstract Factory
+0,1,0,0,1,1,0,1,Observer
+0,1,0,1,1,1,0,0,Iterator
+1,1,1,0,1,1,0,0,Command
+0,0,0,1,0,1,1,0,Command
+1,0,1,1,0,1,1,1,Builder
+1,0,0,0,0,1,1,1,Iterator
+0,0,0,0,1,1,0,1,Observer
+1,0,1,0,1,1,1,0,State
+1,1,1,0,1,1,0,1,Observer
+0,0,0,1,0,1,0,0,Flyweight
+1,1,1,1,1,0,1,0,Mediator
+0,1,0,1,1,0,1,0,Strategy
+0,1,1,1,1,0,1,1,Adapter
+0,1,1,1,0,1,1,0,Proxy
+1,1,0,0,0,0,1,1,State
+0,0,1,0,0,0,1,0,Prototype
+0,1,0,0,0,0,0,0,Memento
+1,1,1,0,0,1,0,0,Singleton
+0,0,1,0,0,1,0,1,Facade
+0,1,1,1,0,0,1,1,Interpreter
+0,0,1,1,1,0,1,0,Mediator
+0,1,0,0,1,1,0,1,Prototype
+1,0,1,1,0,0,1,0,Facade
+1,1,0,1,0,1,1,0,Command
+1,0,1,1,1,1,0,0,Composite
+0,0,0,1,1,1,1,0,Decorator
+0,0,0,0,1,0,0,0,Builder
+0,0,1,1,1,1,0,1,Builder
+1,0,1,1,0,0,0,0,Facade
+1,0,1,0,1,1,0,0,Strategy
+0,1,1,0,0,1,1,0,Bridge
+1,0,0,0,0,1,0,1,Interpreter
+1,0,1,0,1,1,1,0,Singleton
+1,1,1,1,1,0,1,0,Interpreter
+1,0,1,1,0,1,1,0,Interpreter
+1,1,1,1,0,0,0,1,Interpreter
+1,0,0,1,0,1,1,0,Command
+0,1,0,1,1,0,1,0,Builder
+1,1,1,1,0,0,1,0,Abstract Factory
+0,0,1,1,0,0,0,1,Template Method
+1,1,1,0,0,1,1,0,Facade
+1,0,0,0,0,1,1,1,Observer
+1,1,1,1,1,1,0,0,Chain of Responsibility
+0,0,0,0,0,1,1,1,Builder
+1,1,0,0,1,1,0,1,Singleton
+0,1,1,0,1,1,0,0,Adapter
+0,0,0,0,1,1,0,0,Flyweight
+1,0,1,1,1,1,0,1,Builder
+1,0,0,0,0,1,1,1,Builder
+0,0,0,0,0,1,0,0,Chain of Responsibility
+0,0,0,1,1,0,1,0,Template Method
+1,1,1,0,0,1,0,1,Builder
+0,0,1,0,1,1,0,1,Template Method
+1,0,0,0,0,0,0,1,Composite
+1,0,0,0,1,1,1,1,Visitor
+0,1,0,1,1,0,0,1,Memento
+0,1,1,1,1,0,1,0,Visitor
+0,1,0,1,0,0,1,0,Decorator
+0,1,0,0,1,1,0,0,Prototype
+1,0,0,0,1,1,0,0,Bridge
+1,0,1,1,1,1,0,1,Bridge
+0,0,1,1,1,0,0,0,Memento
+1,0,1,1,1,1,0,1,Interpreter
+1,1,0,0,1,1,0,1,Command
+0,0,1,1,0,1,1,1,Command
+0,0,1,1,0,1,0,1,Abstract Factory
+1,0,1,1,1,0,1,1,Facade
+0,0,1,0,0,0,0,0,Builder
+1,1,1,1,0,0,1,1,Builder
+1,1,1,1,0,0,0,0,Factory Method
+1,0,0,1,1,1,0,1,Observer
+1,0,1,1,0,0,1,0,Mediator
+0,1,1,0,1,1,0,1,Strategy
+1,0,1,1,1,1,0,0,Flyweight
+1,1,1,0,1,0,1,1,Strategy
+1,0,0,1,0,0,0,0,Mediator
+1,1,1,1,0,0,1,0,Facade
+0,1,1,0,0,0,1,1,Factory Method
+1,0,0,1,0,1,0,0,Bridge
+0,1,0,0,1,0,1,0,Memento
+1,0,1,0,0,0,0,1,Facade
+1,1,1,0,1,1,1,0,Mediator
+0,0,1,0,1,0,1,1,State
+1,1,0,1,0,1,1,1,Template Method
+1,1,1,1,0,1,1,1,Chain of Responsibility
+1,1,1,0,0,1,1,0,Chain of Responsibility
+1,0,0,1,0,1,0,0,Command
+1,0,1,0,0,1,1,1,Command
+0,0,1,0,0,0,1,0,Abstract Factory
+0,0,1,1,1,1,0,0,Prototype
+1,1,0,1,0,1,0,1,Singleton
+0,1,1,1,0,1,1,1,Composite
+0,1,0,1,0,1,1,0,Iterator
+1,1,1,1,1,0,0,1,Flyweight
+1,1,0,1,1,1,0,1,Observer
+0,1,1,1,0,1,0,1,Observer
+0,0,1,0,1,1,0,0,Visitor
+0,0,0,1,0,1,1,1,Chain of Responsibility
+0,1,0,1,1,1,0,1,Memento
+0,0,0,1,0,0,0,0,Prototype
+0,1,0,1,1,1,1,0,Decorator
+0,0,0,0,0,1,0,1,Observer
+1,1,1,0,1,1,0,0,Bridge
+1,0,1,1,0,1,0,1,Observer
+1,0,1,0,1,0,0,1,Strategy
+1,1,0,0,0,1,0,0,Memento
+0,1,0,1,1,0,1,0,Visitor
+1,0,0,0,1,0,1,0,Interpreter
+1,1,1,0,0,0,0,1,Visitor
+1,0,0,1,1,0,0,0,Strategy
+1,1,1,1,0,1,0,1,Singleton
+0,1,1,1,0,0,0,0,Composite
+1,1,1,1,1,1,1,0,Factory Method
+1,1,0,1,1,1,1,0,Mediator
+1,0,1,1,0,0,0,0,State
+1,1,1,1,0,0,0,1,Flyweight
+0,1,1,0,0,1,1,0,Factory Method
+1,1,0,0,1,1,0,1,Iterator
+1,1,0,1,0,0,1,0,Builder
+1,1,0,0,1,1,0,1,Prototype
+1,0,0,0,1,1,1,0,Prototype
+1,0,1,0,0,1,0,0,Adapter
+0,0,1,1,1,0,1,0,Strategy
+1,0,0,0,0,0,0,0,Composite
+1,1,0,1,0,1,1,1,Decorator
+1,1,1,1,1,1,1,0,Strategy
+0,1,1,1,0,1,1,1,Prototype
+0,1,0,1,1,0,0,0,Composite
+1,1,0,1,0,0,0,1,Proxy
+1,1,1,0,1,0,1,1,Builder
+1,0,0,0,0,1,0,0,Iterator
+1,0,0,1,1,0,0,1,Composite
+0,0,0,0,0,1,0,1,Prototype
+1,1,1,1,1,0,1,1,Singleton
+1,0,1,1,0,1,0,1,Adapter
+1,1,0,0,1,1,0,1,Interpreter
+0,0,0,0,1,1,0,1,Observer
+1,1,1,0,0,1,1,1,Abstract Factory
+0,1,1,1,1,1,1,0,Iterator
+0,0,1,0,1,0,1,1,Proxy
+0,1,0,0,0,1,1,1,Bridge
+1,0,0,0,1,0,1,1,Singleton
+0,0,0,1,1,1,0,0,Command
+0,1,1,0,1,1,0,1,Visitor
+1,0,0,1,1,1,1,0,Decorator
+1,0,1,1,1,1,1,1,Builder
+1,1,0,1,1,0,1,1,Decorator
+0,0,1,0,0,1,1,0,Interpreter
+1,1,1,0,0,0,1,1,Abstract Factory
+0,0,0,0,0,0,0,1,Mediator
+0,1,1,0,1,0,0,1,Builder
+1,0,0,1,0,1,1,1,Observer
+0,0,1,0,1,0,1,1,Composite
+0,0,1,0,0,1,1,1,Observer
+0,1,0,0,0,0,1,0,Memento
+0,1,1,0,0,1,0,0,Abstract Factory
+1,0,1,0,0,1,0,0,Composite
+1,1,0,0,0,1,1,1,Observer
+1,1,0,1,1,0,1,1,State
+1,0,0,0,0,1,1,0,Command
+1,1,1,0,1,0,1,0,Adapter
+0,1,1,1,1,0,1,1,Builder
+1,0,1,1,0,1,0,0,Adapter
+0,0,0,1,0,1,1,1,Decorator
+0,1,1,1,1,0,0,1,Adapter
+0,1,0,1,1,1,1,0,Memento
+1,1,0,1,0,0,1,0,State
+1,1,1,1,0,0,1,1,Facade
+1,1,1,1,0,0,1,1,Iterator
+1,0,1,0,1,1,1,0,Mediator
+0,1,0,0,1,1,1,0,Bridge
+0,1,0,1,0,1,0,1,Command
+1,0,1,1,1,0,0,1,Composite
+1,1,1,1,0,1,1,1,Decorator
+1,0,1,1,1,0,0,0,Singleton
+0,1,1,1,0,0,1,1,Abstract Factory
+1,1,1,1,0,0,1,0,Singleton
+1,1,0,0,1,1,0,0,Prototype
+0,1,1,1,0,0,1,1,Template Method
+0,0,1,0,1,0,0,1,Interpreter
+0,1,1,1,1,0,0,0,Adapter
+0,1,1,1,1,0,0,0,Interpreter
+0,1,0,1,1,0,1,0,Decorator
+0,0,1,0,1,1,0,0,Chain of Responsibility
+1,1,0,0,1,1,1,1,Flyweight
+0,1,1,0,0,1,0,0,Bridge
+0,1,1,1,1,0,0,0,Mediator
+1,0,1,0,1,1,0,0,Mediator
+0,1,1,0,0,0,1,0,Template Method
+0,0,1,0,1,1,1,0,Builder
+0,1,1,0,1,0,1,0,Prototype
+1,0,1,0,0,0,0,1,Interpreter
+0,1,0,0,1,0,0,0,Prototype
+0,0,0,1,1,1,1,1,Chain of Responsibility
+1,0,1,0,1,1,0,1,Singleton
+0,1,1,0,0,1,0,1,Bridge
+1,0,1,0,0,1,0,1,Abstract Factory
+1,1,1,0,0,1,0,1,Observer
+0,1,1,1,0,1,0,0,Abstract Factory
+0,0,0,1,0,1,0,1,Builder
+1,0,1,0,0,0,1,1,Abstract Factory
+0,1,0,1,1,1,1,1,Builder
+1,1,1,1,1,0,1,1,Decorator
+1,1,0,1,1,0,1,0,Strategy
+1,0,1,1,0,0,1,0,Decorator
+0,0,1,0,0,1,1,1,Observer
+1,1,0,1,0,0,1,1,Flyweight
+0,1,1,1,0,0,0,0,Composite
+1,1,1,0,1,1,1,1,Factory Method
+0,0,0,0,1,1,1,1,Composite
+1,0,0,1,1,1,0,1,Visitor
+0,1,1,1,1,1,0,1,Composite
+1,1,1,0,1,0,1,0,Strategy
+0,0,1,0,1,0,1,1,Mediator
+0,1,0,0,0,0,1,0,Builder
+1,1,0,0,1,0,0,0,Builder
+0,1,0,0,0,1,0,1,Chain of Responsibility
+1,0,1,0,0,1,1,1,Abstract Factory
+0,0,0,0,1,0,1,1,State
+0,0,1,1,1,0,1,1,Strategy
+1,1,0,1,1,0,0,0,Prototype
+1,1,0,0,1,1,0,0,Singleton
+0,0,0,0,1,1,0,1,Flyweight
+0,1,0,1,0,0,1,1,Iterator
+1,0,1,0,1,1,0,0,Proxy
+1,0,0,1,0,0,1,1,Decorator
+1,1,0,0,0,1,1,1,Chain of Responsibility
+1,1,0,1,0,1,1,1,Flyweight
+1,1,0,0,0,1,1,0,Flyweight
+1,1,1,1,0,0,0,0,Builder
+0,0,0,1,0,1,1,1,Observer
+0,1,1,0,1,0,1,0,Factory Method
+1,1,1,1,1,0,1,0,Abstract Factory
+0,0,1,1,0,0,1,0,Abstract Factory
+0,0,1,0,1,1,1,0,Chain of Responsibility
+1,0,1,0,1,1,1,1,Bridge
+0,0,1,1,0,1,0,0,Bridge
+0,1,0,0,1,1,1,1,Interpreter
+0,1,1,1,1,0,1,0,Prototype
+0,0,1,1,0,1,1,1,Prototype
+0,1,1,0,0,1,1,0,State
+1,1,0,0,1,1,0,0,Builder
+0,0,0,1,0,0,1,1,Composite
+1,1,0,0,0,0,1,1,Flyweight
+1,1,1,1,0,0,0,1,Flyweight
+1,1,0,0,1,1,0,1,Interpreter
+0,0,0,0,0,0,1,1,Prototype
+0,0,0,1,1,0,0,1,Interpreter
+1,1,1,0,1,1,1,1,Builder
+0,0,0,0,1,0,0,0,Memento
+0,1,0,1,0,1,1,0,Decorator
+0,1,0,1,0,1,0,1,Command
+0,0,0,1,0,0,0,1,Visitor
+0,1,0,0,0,1,1,0,Mediator
+1,0,0,0,1,0,1,0,Singleton
+1,1,0,1,1,1,0,1,Mediator
+1,1,1,0,1,0,1,0,Singleton
+0,1,0,0,1,1,1,0,Mediator
+0,1,1,1,1,0,0,0,Adapter
+0,1,0,1,0,1,0,0,Builder
+0,1,1,0,1,0,0,1,Interpreter
+1,1,0,0,0,1,0,1,Observer
+1,1,0,1,0,0,1,1,Memento
+0,0,1,0,1,0,0,0,Abstract Factory
+0,0,0,0,1,1,1,0,Iterator
+1,0,0,1,0,0,1,1,Interpreter
+1,0,1,1,1,0,0,1,Flyweight
+0,0,1,0,0,0,1,1,Adapter
+1,0,1,1,1,1,0,0,Chain of Responsibility
+1,1,1,1,1,1,0,0,Singleton
+0,0,1,0,0,0,1,0,Mediator
+0,0,0,0,0,1,1,1,Interpreter
+0,0,1,0,0,0,1,0,Adapter
+0,1,1,1,1,0,1,1,Decorator
+0,0,0,1,0,0,1,0,Composite
+0,1,0,1,0,1,0,0,Composite
+0,1,1,1,1,1,0,0,Flyweight
+1,0,1,1,0,0,1,1,Iterator
+0,1,1,1,1,1,1,1,Proxy
+0,0,0,0,0,1,0,0,Proxy
+1,1,0,0,1,1,0,0,Template Method
+0,0,0,1,1,1,0,0,Chain of Responsibility
+0,1,0,0,1,0,1,0,Builder
+0,1,1,0,1,0,0,0,Facade
+1,1,0,1,0,1,1,1,Prototype
+1,1,1,1,0,1,1,1,Abstract Factory
+1,0,1,1,0,1,1,0,Decorator
+1,0,0,0,0,1,1,1,Proxy
+0,1,0,0,0,0,0,1,Iterator
+0,1,1,1,1,0,0,1,Abstract Factory
+1,0,0,0,1,1,0,1,Iterator
+0,0,0,0,1,1,0,1,Flyweight
+1,1,0,0,0,0,1,1,Visitor
+1,0,0,0,1,0,1,1,Strategy
+1,0,1,0,1,0,0,1,Mediator
+1,1,1,1,0,0,0,0,Facade
+0,1,1,1,1,0,1,1,Builder
+1,1,1,0,1,1,0,0,Builder
+0,1,1,1,1,0,1,0,Memento
+1,1,1,0,1,1,1,1,Observer
+1,0,1,1,0,0,0,1,Singleton
+1,0,0,0,0,0,0,0,State
+0,0,1,1,1,1,0,0,Adapter
+1,0,1,0,1,0,1,0,Adapter
+0,1,1,0,1,1,0,1,Command
+0,0,1,1,0,1,1,1,Chain of Responsibility
+1,1,1,0,0,1,0,0,Mediator
+1,1,1,1,1,0,1,0,Singleton
+0,1,0,1,1,1,0,1,Flyweight
+0,1,1,1,1,1,1,0,Strategy
+0,0,1,0,0,0,1,1,Abstract Factory
+1,0,0,0,0,1,0,1,Command
+1,0,1,1,1,1,1,1,Memento
+0,1,1,0,1,1,0,0,Chain of Responsibility
+0,1,1,1,1,0,1,1,Iterator
+0,1,0,0,1,0,0,1,Flyweight
+1,0,1,0,0,1,1,0,Abstract Factory
+0,1,1,1,1,1,1,1,Command
+0,1,0,0,0,0,1,0,Proxy
+0,1,1,0,0,0,0,0,Prototype
+0,0,1,1,0,0,0,0,Facade
+0,0,1,0,1,1,0,1,Iterator
+1,0,0,1,1,0,1,1,Singleton
+0,1,1,0,1,0,1,1,Facade
+1,1,1,1,0,1,0,0,Builder
+0,0,0,0,1,1,1,1,Template Method
+0,0,0,0,1,1,1,0,Builder
+0,0,0,1,0,1,0,0,Proxy
+1,1,1,1,1,1,0,1,Builder
+1,0,1,1,0,1,0,0,Flyweight
+0,1,1,1,0,1,1,1,Decorator
+0,0,1,1,1,1,1,0,Memento
+0,0,0,0,0,0,1,1,Interpreter
+1,1,0,0,1,0,0,1,State
+0,0,1,1,0,0,0,1,Adapter
+1,1,1,1,0,1,0,0,Mediator
+0,0,1,1,1,0,0,0,Abstract Factory
+1,0,1,0,0,1,0,0,Command
+1,0,1,0,0,1,1,0,Singleton
+1,0,0,0,1,0,1,1,State
+0,1,1,0,0,0,1,0,Factory Method
+0,0,0,0,1,1,0,1,Chain of Responsibility
+1,1,0,1,1,0,1,1,Proxy
+0,0,0,0,1,1,1,1,Strategy
+1,0,1,1,1,1,0,1,Flyweight
+1,0,1,0,1,1,1,1,Mediator
+0,0,0,1,1,1,1,1,Strategy
+0,0,1,1,0,0,1,0,Decorator
+0,0,0,0,1,1,0,0,Memento
+1,0,1,1,0,1,0,0,Facade
+1,1,1,1,1,1,1,0,Memento
+0,1,1,1,1,0,1,1,Factory Method
+1,0,1,1,0,1,1,0,Template Method
+0,1,1,0,1,1,1,1,Composite
+1,1,1,1,0,1,1,1,Command
+1,1,0,1,1,0,1,0,Decorator
+1,1,0,1,0,0,1,1,Mediator
+0,0,0,1,1,1,0,1,Interpreter
+0,0,1,1,1,1,1,0,Command
+1,0,1,1,1,1,1,1,Builder
+0,1,1,0,0,1,1,1,Composite
+0,0,1,0,1,1,1,0,Chain of Responsibility
+1,1,1,1,1,0,0,1,Composite
+0,0,0,1,1,1,1,1,State
+0,0,0,0,1,0,1,0,Strategy
+0,1,1,1,0,1,0,0,Command
+0,0,1,0,0,0,1,0,Visitor
+1,1,1,1,1,1,1,0,Facade
+1,1,1,0,0,1,0,0,Flyweight
+1,0,1,1,0,0,0,1,Proxy
+1,0,1,1,1,1,1,1,Proxy
+0,1,0,0,1,1,0,0,Command
+0,0,0,0,0,0,1,1,Template Method
+1,1,1,0,1,0,0,1,Flyweight
+1,1,1,1,1,0,0,1,Factory Method
+0,1,1,0,0,1,0,1,Observer
+1,0,0,1,0,1,0,1,Observer
+0,1,0,1,1,1,1,0,Decorator
+0,1,1,1,1,1,1,0,Proxy
+1,0,0,0,0,1,0,0,Singleton
+0,0,1,1,1,1,0,1,Command
+0,0,0,1,1,1,0,1,Observer
+1,1,1,1,0,1,1,0,Builder
+0,0,1,1,0,1,1,1,Iterator
+0,1,1,1,0,1,1,0,Bridge
+0,0,1,1,0,0,0,0,Template Method
+1,0,1,0,0,1,0,0,Abstract Factory
+1,0,1,1,1,0,0,1,Strategy
+0,0,1,0,1,1,1,0,Command
+1,1,0,1,1,1,0,0,Memento
+0,0,1,1,1,0,0,0,Builder
+0,1,1,1,1,0,1,0,Interpreter
+0,1,0,1,1,1,0,0,Iterator
+0,0,0,1,1,1,1,0,Flyweight
+1,1,0,1,1,0,1,0,Composite
+0,1,1,1,1,0,0,1,Interpreter
+1,0,0,1,0,1,1,1,Composite
+1,1,1,0,1,1,0,0,Factory Method
+0,0,0,0,1,1,0,1,Chain of Responsibility
+0,1,1,1,0,1,0,1,Adapter
+1,1,1,0,0,1,0,0,Facade
+0,1,1,1,1,0,0,0,Strategy
+0,1,1,1,1,1,1,1,Bridge
+1,1,1,1,1,1,0,1,Chain of Responsibility
+0,1,1,1,1,1,1,0,Facade
+0,0,1,1,1,0,0,1,Strategy
+0,1,0,1,0,0,1,0,Iterator
+1,1,1,0,1,0,1,1,Mediator
+1,1,1,0,0,0,1,1,Factory Method
+0,0,1,1,0,0,0,1,Flyweight
+1,1,1,1,1,1,1,1,Command
+0,1,1,0,0,1,0,1,Factory Method
+1,0,0,1,0,1,0,1,Mediator
+0,0,0,0,0,1,0,0,Bridge
+1,1,0,1,1,1,1,1,Observer
+0,0,1,1,1,1,1,1,Mediator
+1,1,1,1,1,0,0,0,Visitor
+0,0,0,1,1,0,1,0,Decorator
+1,1,1,1,0,0,1,0,Abstract Factory
+0,0,1,1,0,0,1,1,Adapter
+1,0,1,0,1,0,1,1,Abstract Factory
+1,1,1,1,1,1,1,1,Chain of Responsibility
+1,0,1,1,0,1,0,1,Memento
+1,1,0,0,0,1,1,1,Chain of Responsibility
+0,0,0,1,1,0,0,1,Mediator
+1,0,1,0,1,1,1,1,Interpreter
+1,0,1,1,0,0,0,0,Adapter
+1,1,0,0,1,1,1,1,Singleton
+1,0,1,0,1,0,0,0,Visitor
+1,0,1,1,0,0,1,0,Facade
+0,0,0,0,0,1,0,0,Command
+1,0,1,0,1,0,1,0,Proxy
+0,1,0,1,1,0,1,0,Strategy
+1,1,1,0,1,1,1,0,Bridge
+0,0,1,0,0,1,1,1,Bridge
+1,1,1,0,0,0,0,0,Proxy
+0,1,1,1,1,0,1,1,Adapter
+1,1,1,1,0,1,0,1,Command
+1,0,0,0,0,0,0,0,Composite
+0,1,1,1,1,0,1,0,Iterator
+1,0,0,0,0,0,0,1,Singleton
+0,0,0,1,1,1,0,1,Template Method
+0,1,1,1,1,0,0,0,Factory Method
+0,0,0,0,1,0,1,0,Template Method
+1,1,1,0,0,0,1,0,Composite
+1,0,0,0,0,0,0,0,Flyweight
+1,0,0,1,1,1,1,1,Iterator
+1,1,0,0,0,0,1,0,Prototype
+1,0,0,1,0,1,1,1,Observer
+0,0,1,1,1,1,1,0,Builder
+0,0,0,1,0,1,1,0,Bridge
+1,1,0,1,0,1,1,1,Visitor
+0,1,1,1,1,0,1,1,Factory Method
+0,0,0,0,1,1,1,1,Strategy
+0,0,1,1,0,0,0,1,Abstract Factory
+1,1,0,1,0,0,0,1,Iterator
+1,0,1,0,1,1,0,1,Interpreter
+0,1,1,1,0,1,1,1,Bridge
+1,1,1,1,1,0,1,1,State
+1,1,1,0,1,0,0,1,Template Method
+0,0,1,0,0,0,1,0,Visitor
+0,1,0,1,0,1,1,1,Flyweight
+1,1,1,0,0,1,0,0,Factory Method
+1,0,1,1,1,0,0,0,Abstract Factory
+0,0,1,1,0,0,1,1,Template Method
+1,0,1,0,0,1,0,1,Observer
+1,0,0,1,1,0,0,1,Visitor
+1,1,1,1,1,1,1,1,Iterator
+0,0,1,0,0,1,0,1,State
+0,1,0,1,0,1,0,0,Visitor
+0,0,1,1,1,0,1,0,Template Method
+1,1,0,1,0,0,1,1,Flyweight
+0,0,1,0,0,0,0,0,Interpreter
+1,1,1,0,0,1,1,1,Factory Method
+1,1,1,1,0,1,1,1,Observer
+1,1,1,0,1,1,0,1,Command
+0,1,0,1,0,1,1,1,Observer
+1,0,1,1,0,0,1,0,Interpreter
+1,0,1,1,0,0,1,0,Prototype
+0,0,1,1,1,1,0,0,Command
+1,0,0,0,0,0,0,0,State
+0,0,0,1,1,1,0,1,Bridge
+1,1,0,0,1,1,0,1,Bridge
+0,1,0,1,1,1,0,0,Bridge
+1,0,1,1,0,1,1,1,Command
+1,0,0,1,0,1,0,0,Singleton
+1,0,0,1,0,1,0,0,Command
+0,1,1,0,1,1,0,1,Adapter
+1,0,1,0,1,1,0,0,Memento
+0,1,0,0,0,1,1,0,Flyweight
+0,0,0,0,1,0,0,1,Strategy
+0,1,1,0,1,1,0,1,Strategy
+1,0,1,0,1,1,1,1,Chain of Responsibility
+1,0,0,1,0,0,0,0,Singleton
+1,1,1,1,1,0,0,1,Template Method
+1,0,0,1,0,0,1,0,Decorator
+0,1,0,1,1,1,0,0,Composite
+0,1,1,0,0,1,0,0,Visitor
+0,0,0,0,0,1,1,1,Chain of Responsibility
+0,0,1,0,0,0,0,0,Mediator
+0,1,1,1,1,0,1,1,Factory Method
+0,1,1,1,0,1,1,0,Mediator
+0,1,0,1,0,1,0,0,Bridge
+1,0,1,1,1,1,1,1,Builder
+0,1,1,1,1,1,1,0,Visitor
+0,1,0,1,1,0,0,1,Prototype
+1,1,0,0,1,0,0,1,Prototype
+1,0,0,1,0,0,1,0,State
+1,0,1,0,1,0,1,1,Singleton
+0,1,0,0,0,0,0,0,Visitor
+1,0,0,0,0,1,0,0,Composite
+0,1,1,0,1,0,1,1,Interpreter
+0,1,1,0,1,0,0,0,Factory Method
+1,1,1,0,0,1,0,0,Memento
+0,0,1,1,0,0,1,0,Adapter
+0,1,0,0,0,1,0,0,Proxy
+1,1,0,1,1,1,0,0,Command
+0,0,1,0,1,0,0,0,Iterator
+1,0,1,0,1,0,1,0,Interpreter
+1,0,0,0,1,0,1,1,Singleton
+1,1,1,1,0,1,0,1,Composite
+1,0,1,1,0,0,1,1,Facade
+0,1,1,0,0,0,0,1,Adapter
+1,1,0,1,1,0,1,0,Decorator
+0,0,1,1,0,1,0,0,Adapter
+1,0,0,0,1,0,0,1,Strategy
+0,0,1,1,1,0,0,1,Proxy
+1,0,0,0,0,0,0,0,Visitor
+1,1,1,1,0,1,1,1,Memento
+1,0,0,0,0,1,0,1,Bridge
+1,0,0,0,1,1,1,1,Composite
+0,0,0,1,1,0,1,1,Prototype
+0,1,0,1,1,0,0,1,Memento
+1,1,1,0,1,1,1,0,Strategy
+1,0,1,1,0,1,1,1,Visitor
+1,1,1,1,1,1,1,0,Iterator
+0,1,0,0,0,1,1,1,Composite
+1,1,1,1,1,0,0,0,Factory Method
+1,1,0,1,1,1,0,0,Strategy
+0,1,0,1,1,1,1,1,Decorator
+0,1,1,1,0,0,1,1,Factory Method
+0,1,1,0,0,1,0,1,Factory Method
+1,0,0,1,1,1,1,1,Command
+0,0,1,1,0,0,1,1,Mediator
+1,0,0,0,0,1,0,1,Observer
+0,0,0,1,0,0,0,0,Template Method
+0,1,1,0,1,0,1,1,Factory Method
+0,0,0,0,0,1,0,0,Composite
+1,0,0,1,1,0,1,0,Visitor
+0,0,0,0,0,1,1,0,Composite
+0,0,0,0,0,0,0,1,Memento
+1,1,1,0,0,0,1,1,Singleton
+0,1,0,0,0,1,0,1,Prototype
+0,0,1,1,1,0,1,1,Decorator
+1,0,1,0,0,1,0,0,State
+1,1,1,1,0,0,1,0,Singleton
+1,1,1,1,1,1,0,1,Factory Method
+0,0,0,0,0,1,1,0,Memento
+0,1,1,1,0,0,1,1,Prototype
+1,0,1,1,0,0,1,1,Facade
+1,0,1,0,1,0,1,1,Memento
+0,0,1,0,1,0,1,1,Facade
+1,0,1,0,1,1,1,1,Prototype
+0,0,0,0,0,1,1,1,Bridge
+1,1,1,0,0,1,1,0,Memento
+0,1,1,1,1,0,0,0,Abstract Factory
+0,1,0,1,1,1,1,1,Observer
+0,1,1,1,0,1,0,1,Observer
+1,1,1,0,0,0,1,0,Factory Method
+1,0,0,1,1,0,1,0,Builder
+0,1,1,0,1,0,1,1,Mediator
+0,0,0,0,1,1,1,0,Flyweight
+0,1,1,1,0,0,1,1,Iterator
+0,0,1,0,1,1,0,1,Builder
+0,0,1,1,1,1,1,1,Bridge
+0,0,0,1,0,1,1,0,Template Method
+1,0,1,1,0,1,0,1,Builder
+1,0,0,1,0,0,1,0,Singleton
+0,0,1,0,1,0,1,0,Memento
+0,1,1,0,1,1,1,1,Iterator
+0,0,1,1,0,1,0,1,Command
+1,1,1,1,0,0,1,1,Abstract Factory
+0,1,0,1,0,1,1,0,Bridge
+1,0,0,1,0,0,1,1,Memento
+1,0,0,0,0,1,0,0,State
+1,0,1,1,0,1,0,0,Visitor
+1,0,0,1,0,0,0,1,Memento
+1,0,1,1,1,1,1,1,Iterator
+0,0,1,0,0,1,0,1,Facade
+1,1,1,1,1,0,1,1,Prototype
+1,1,1,0,1,0,1,1,Adapter
+1,0,0,0,0,0,0,0,Prototype
+0,0,0,0,1,1,0,1,Command
+0,0,0,0,1,1,0,0,Builder
+0,1,0,1,0,0,1,1,Decorator
+1,0,1,0,1,0,0,0,Singleton
+1,1,1,1,1,1,0,1,Template Method
+0,0,1,0,1,1,0,0,Iterator
+0,1,1,0,1,1,0,0,Proxy
+0,0,0,0,0,1,1,1,Bridge
+0,1,1,0,1,0,1,0,Adapter
+0,0,0,0,0,1,0,1,Command
+1,1,0,1,1,0,0,0,Flyweight
+1,0,0,0,1,0,1,0,Singleton
+1,0,1,1,0,1,1,1,Abstract Factory
+1,0,1,1,1,1,1,1,Decorator
+1,0,1,0,1,1,0,0,Iterator
+1,1,1,1,1,0,1,1,Proxy
+0,0,1,0,1,1,1,0,Strategy
+1,0,1,0,1,0,1,1,Prototype
+0,1,0,0,0,1,0,1,Interpreter
+1,0,0,0,0,0,0,1,Mediator
+0,0,1,1,0,1,0,0,Facade
+1,1,1,0,1,1,0,1,Interpreter
+0,0,0,0,0,0,1,1,State
+0,0,1,1,0,0,1,1,Prototype
+0,1,0,0,1,1,0,0,Bridge
+0,1,0,1,1,1,1,0,Interpreter
+1,0,0,1,0,1,1,0,Flyweight
+0,0,0,0,1,1,0,0,State
+1,1,1,1,1,1,1,0,Factory Method
+1,1,0,1,0,0,1,1,Memento
+1,0,0,0,1,1,0,0,Proxy
+1,1,0,1,1,1,0,0,Command
+0,1,1,0,0,0,1,1,Template Method
+1,0,1,1,0,0,0,1,Abstract Factory
+1,1,1,1,1,0,0,1,Template Method
+1,0,1,1,1,0,0,0,Iterator
+1,0,0,1,1,0,1,0,Iterator
+0,1,1,1,1,1,0,1,Command
+0,1,0,1,1,0,1,0,Strategy
+0,0,0,0,1,1,0,0,Composite
+0,0,0,0,0,1,0,0,State
+0,1,1,0,1,1,1,1,Composite
+0,1,0,1,1,1,1,1,Bridge
+1,1,1,1,0,1,1,0,Decorator
+1,1,0,1,0,1,1,0,Template Method
+1,0,1,1,1,1,0,0,Chain of Responsibility
+1,1,1,0,1,0,0,0,Strategy
+0,0,1,0,1,1,1,1,Proxy
+0,1,1,0,1,0,0,1,Abstract Factory
+0,0,1,1,1,1,1,0,Chain of Responsibility
+1,1,1,0,0,0,1,1,Proxy
+0,1,1,0,1,1,0,0,Strategy
+0,1,0,1,1,1,0,0,Bridge
+1,0,1,1,0,0,0,0,Facade
+0,0,1,1,1,0,1,1,Builder
+1,0,0,1,1,1,1,1,Flyweight
+1,0,0,0,0,1,1,1,Template Method
+1,0,1,1,0,1,0,0,Facade
+1,1,0,0,1,1,0,1,Strategy
+0,1,1,0,0,1,0,0,State
+0,0,0,0,0,0,0,0,State
+1,1,1,1,0,1,0,0,Factory Method
+1,1,0,1,1,1,1,1,Command
+1,0,1,0,1,1,0,0,Flyweight
+0,0,1,0,1,1,1,1,Chain of Responsibility
+1,0,0,0,0,0,1,0,Singleton
+0,1,1,1,1,1,1,0,Factory Method
+0,1,1,0,1,1,1,1,Template Method
+1,0,0,0,1,1,0,1,Proxy
+1,1,1,1,0,0,0,0,Iterator
+0,0,1,1,1,1,1,0,Command
+0,1,1,0,1,0,0,1,Factory Method
+0,1,1,0,0,0,1,0,Iterator
+1,0,1,1,1,1,1,0,Decorator
+1,0,1,1,0,0,1,0,Memento
+1,1,0,0,0,1,0,1,Chain of Responsibility
+0,1,0,0,0,1,0,1,Memento
+0,1,0,0,0,0,1,1,Prototype
+1,1,0,1,1,1,1,0,Memento
+0,1,1,1,0,1,1,1,Flyweight
+1,0,0,1,0,1,1,0,Memento
+0,0,1,1,1,0,1,0,Adapter
+0,0,0,1,1,1,0,0,Builder
+0,0,1,1,0,1,0,0,Memento
+1,0,0,1,1,0,0,1,Memento
+0,0,1,0,1,1,1,1,Abstract Factory
+0,1,1,0,1,0,1,0,State
+1,0,1,0,1,1,0,1,Bridge
+0,1,1,1,0,0,1,0,Iterator
+0,1,0,0,1,1,1,1,Observer
+1,0,0,1,1,1,1,0,Decorator
+0,0,1,1,1,1,1,0,Chain of Responsibility
+1,1,1,1,0,0,1,0,Factory Method
+1,1,0,1,1,1,0,1,Composite
+0,0,1,1,1,1,0,0,Chain of Responsibility
+0,1,1,1,0,0,0,0,Factory Method
+1,1,0,1,1,1,0,1,Observer
+1,1,1,1,1,0,1,0,Composite
+0,1,1,0,1,1,0,1,Strategy
+0,0,1,1,0,1,1,1,Adapter
+1,1,0,1,1,1,1,1,Composite
+0,0,1,1,0,1,0,1,Builder
+0,1,0,1,1,1,0,0,Composite
+1,1,1,0,0,1,0,1,State
+0,0,1,1,0,1,0,0,Abstract Factory
+0,1,0,1,0,1,0,1,Chain of Responsibility
+1,1,0,0,0,0,1,1,Template Method
+1,1,0,0,1,0,1,1,State
+0,0,1,0,0,1,1,1,Proxy
+1,1,0,0,1,1,1,0,Chain of Responsibility
+1,1,1,0,1,1,0,0,Bridge
+0,0,1,0,0,1,0,1,Memento
+1,1,0,0,0,1,0,0,Command
+1,1,1,1,0,1,0,1,Interpreter
+1,0,1,1,1,0,0,1,Singleton
+1,0,1,1,0,1,1,0,Bridge
+1,0,0,0,1,1,0,1,Chain of Responsibility
+1,1,1,0,0,1,1,0,Adapter
+0,0,0,1,0,1,1,0,Interpreter
+1,0,0,1,1,1,0,1,Bridge
+1,0,0,1,1,1,0,1,Builder
+0,1,1,1,0,0,1,0,Factory Method
+1,0,1,0,0,0,0,1,Adapter
+1,1,1,0,1,0,0,1,Facade
+1,0,0,1,1,1,0,0,Proxy
+0,1,1,0,1,1,0,1,Strategy
+0,1,0,1,0,1,0,0,Proxy
+0,0,1,0,0,0,1,1,Builder
+0,0,1,1,1,1,1,1,Memento
+1,0,0,1,0,0,0,1,Singleton
+1,1,0,1,0,1,1,1,Singleton
+1,1,1,1,1,1,0,0,Factory Method
+1,0,1,1,0,1,0,0,Bridge
+1,1,0,0,0,1,0,0,Interpreter
+0,1,1,0,1,1,0,0,Strategy
+0,0,1,0,1,1,0,1,Observer
+1,0,1,1,1,1,1,1,Strategy
+0,1,1,0,1,0,1,0,Factory Method
+1,1,1,0,0,0,1,1,Memento
+0,1,0,1,0,1,1,0,Memento
+0,0,1,0,1,0,0,0,Facade
+1,1,1,1,1,0,1,0,Proxy
+0,1,1,1,0,0,1,1,Iterator
+0,0,0,0,1,1,1,0,Interpreter
+0,1,0,0,1,1,1,1,Prototype
+0,0,1,0,1,1,0,0,Command
+1,0,0,1,0,1,1,1,Command
+0,0,0,1,0,1,0,1,Bridge
+0,0,1,0,0,1,1,1,Iterator
+1,0,0,1,1,1,1,0,Strategy
+0,1,0,0,0,1,1,1,Command
+1,0,1,1,1,1,1,0,Decorator
+0,0,0,1,1,0,1,0,Builder
+1,0,0,1,0,1,0,1,Visitor
+0,0,0,1,0,0,0,0,Memento
+1,0,0,1,1,0,0,1,Prototype
+0,1,1,1,1,1,0,1,Composite
+1,0,0,1,1,0,0,1,Singleton
+1,0,1,0,1,1,1,1,Flyweight
+0,1,0,1,0,1,0,0,State
+1,1,0,0,0,0,1,0,Interpreter
+0,0,0,1,1,0,0,0,Strategy
+1,1,0,1,0,0,1,1,Builder
+0,1,1,1,1,0,0,0,Iterator
+0,0,1,1,0,0,0,1,Adapter
+1,0,1,1,1,1,1,0,Chain of Responsibility
+1,1,1,0,0,0,0,0,Adapter
+0,1,1,1,0,0,0,1,Template Method
+0,0,0,0,1,0,1,0,Interpreter
+0,0,1,0,1,1,1,0,Builder
+1,1,0,1,1,1,1,0,Composite
+1,1,1,0,1,0,0,0,Visitor
+0,1,0,1,1,1,1,0,Memento
+1,0,0,1,1,1,0,1,Proxy
+0,0,1,1,1,0,0,0,Abstract Factory
+0,0,1,0,0,0,0,0,Composite
+1,0,1,1,1,0,1,1,Singleton
+1,1,1,1,0,1,0,1,Factory Method
+1,1,1,0,1,0,0,1,Mediator
+0,0,1,1,0,1,0,0,Memento
+0,0,1,1,1,1,1,1,Decorator
+0,1,0,1,1,1,1,1,Bridge
+0,1,1,0,0,0,1,1,Template Method
+1,0,0,1,1,1,0,0,Proxy
+1,0,1,1,1,1,0,1,Observer
+0,1,0,1,1,1,0,1,Builder
+1,0,0,1,1,1,0,0,Command
+0,0,0,1,0,1,1,0,Mediator
+0,1,0,0,1,1,1,0,Memento
+0,1,1,0,1,1,0,1,Factory Method
+1,1,0,0,1,1,1,1,Strategy
+0,1,1,0,0,1,0,0,Factory Method
+0,1,0,0,0,0,1,0,Mediator
+1,0,1,1,0,0,0,0,Prototype
+1,0,1,1,1,1,0,1,Composite
+0,1,1,1,1,1,1,1,Flyweight
+1,1,1,1,0,0,0,1,Adapter
+1,0,0,1,0,0,0,1,Singleton
+1,1,1,0,1,0,0,1,Adapter
+0,0,1,1,1,1,0,0,Bridge
+1,0,1,0,0,1,1,1,Observer
+0,1,0,0,0,1,1,0,Visitor
+1,1,0,0,1,0,1,0,Visitor
+0,0,0,0,1,1,1,1,Visitor
+1,0,1,1,1,1,1,1,Mediator
+0,0,1,1,0,1,0,0,Iterator
+0,0,1,0,1,1,1,0,Command
+0,1,0,1,1,0,0,1,Iterator
+1,0,0,0,1,0,0,1,Composite
+1,0,1,1,0,1,1,1,Composite
+1,0,0,1,1,1,1,1,Prototype
+1,0,0,0,1,1,1,1,Proxy
+0,0,0,0,1,1,1,1,Command
+1,1,0,0,1,0,0,1,Strategy
+0,1,0,0,0,1,0,1,Bridge
+1,0,1,0,1,1,1,0,Bridge
+1,1,1,1,0,1,1,0,Facade
+0,1,0,1,0,0,1,1,Flyweight
+1,0,1,1,1,0,1,0,Decorator
+1,1,1,0,1,1,0,1,Factory Method
+0,0,1,1,0,1,1,0,Template Method
+1,0,0,1,0,0,1,1,Decorator
+0,0,1,0,0,0,0,1,Iterator
+1,0,0,1,0,1,0,0,State
+1,1,1,1,1,1,0,1,Iterator
+1,1,1,1,1,0,1,1,Singleton
+1,1,0,0,1,0,0,1,State
+1,1,0,1,0,1,1,1,State
+1,0,0,0,1,1,0,1,Strategy
+0,1,1,1,0,0,0,1,Visitor
+1,1,1,0,1,1,1,0,Factory Method
+1,0,0,0,1,0,0,1,Memento
+1,0,1,1,1,1,1,0,Facade
+1,1,1,1,0,1,0,1,Bridge
+1,1,1,0,0,1,0,1,Abstract Factory
+0,1,0,1,1,1,1,0,Proxy
+1,1,1,1,0,0,1,1,Facade
+0,0,0,0,0,1,0,0,Bridge
+1,0,1,0,1,1,0,1,Proxy
+0,0,1,0,0,1,1,1,Bridge
+0,0,1,1,0,1,0,0,Bridge
+1,1,1,0,0,0,0,0,Facade
+1,1,1,1,0,1,0,1,Iterator
+0,1,1,0,1,0,0,1,Composite
+1,0,0,0,1,1,0,1,Composite
+1,0,1,0,1,0,0,1,Abstract Factory
+0,0,0,0,0,1,0,0,Chain of Responsibility
+1,1,0,1,1,0,0,0,Visitor
+0,0,0,0,1,1,0,1,Bridge
+1,1,0,0,1,1,0,0,Proxy
+1,1,1,1,1,1,0,1,Iterator
+0,0,1,0,1,1,1,0,Mediator
+1,1,1,1,0,1,1,1,Memento
+1,0,0,0,1,1,0,0,Iterator
+1,0,0,0,1,1,1,1,Command
+1,0,1,1,0,0,1,0,Proxy
+1,0,0,0,1,1,1,1,Strategy
+1,1,1,0,1,1,0,0,Proxy
+1,1,1,0,0,1,0,0,Proxy
+1,0,1,0,1,1,1,1,Interpreter
+0,0,0,0,1,0,0,1,Composite
+0,1,1,1,0,0,0,1,Facade
+0,0,0,0,1,1,1,0,Builder
+0,0,0,0,0,1,1,1,Chain of Responsibility
+0,1,1,1,0,1,0,1,Command
+1,1,0,1,0,1,1,0,Decorator
+1,0,0,1,1,0,1,1,State
+0,1,1,0,0,0,0,0,Factory Method
+1,1,0,1,0,0,1,0,Decorator
+0,0,1,0,1,1,1,0,Template Method
+0,1,0,1,1,0,1,1,Composite
+1,0,0,0,0,0,0,1,Iterator
+1,0,1,1,1,0,0,0,Template Method
+0,1,0,1,1,1,1,1,Decorator
+1,0,0,0,1,1,0,1,Bridge
+0,1,1,0,0,0,0,0,Facade
+0,0,1,0,0,0,0,0,Mediator
+0,1,1,0,0,0,0,1,Composite
+1,1,0,0,1,1,0,1,Chain of Responsibility
+0,0,1,1,0,1,1,1,Chain of Responsibility
+0,1,0,0,0,0,1,0,Flyweight
+1,0,0,1,1,0,0,1,Visitor
+1,0,1,0,0,1,1,1,Adapter
+1,0,0,0,1,1,1,1,Flyweight
+0,0,0,0,0,1,0,1,Command
+1,1,1,1,1,1,1,1,Prototype
+0,0,1,1,0,1,1,1,Facade
+0,0,1,0,0,1,0,0,Proxy
+0,0,1,1,0,1,1,0,Flyweight
+0,1,0,1,0,1,0,1,Bridge
+1,1,1,1,1,1,0,1,Singleton
+1,1,0,0,1,1,0,1,Singleton
+1,0,0,1,0,0,0,0,Flyweight
+0,1,1,1,0,0,1,0,Memento
+0,0,0,0,1,1,0,0,Builder
+1,0,1,1,1,0,0,1,Visitor
+0,0,0,0,1,1,0,0,Command
+0,0,0,1,1,1,0,1,Builder
+1,0,1,1,1,1,1,0,Memento
+1,0,1,1,0,1,1,0,Memento
+0,0,0,1,0,1,0,1,Chain of Responsibility
+0,0,0,1,1,1,0,1,State
+1,0,0,0,0,0,0,0,Flyweight
+0,0,0,0,1,1,0,0,Prototype
+1,0,0,0,1,1,1,1,Bridge
+1,0,1,1,1,1,0,0,Strategy
+0,1,1,0,1,1,0,1,Mediator
+1,0,0,1,0,0,0,0,Composite
+0,1,0,1,1,0,0,1,Interpreter
+1,0,0,1,1,0,1,0,Iterator
+1,0,1,1,1,0,1,0,Strategy
+1,1,1,1,1,1,1,0,Strategy
+0,1,0,1,0,1,1,0,Iterator
+1,1,1,1,1,1,0,1,Builder
+0,1,1,0,0,0,0,0,Interpreter
+0,0,1,0,0,0,0,1,State
+1,1,0,1,1,0,1,0,Decorator
+1,1,0,1,1,0,1,0,Strategy
+1,1,1,1,0,0,1,1,Proxy
+1,0,0,1,0,1,0,0,Mediator
+0,0,0,1,1,1,1,1,Template Method
+0,0,1,1,0,1,0,0,Command
+1,0,1,0,1,0,1,0,Singleton
+0,1,0,1,0,1,1,0,Mediator
+1,1,1,1,0,0,1,1,Abstract Factory
+1,0,0,1,1,0,1,1,Singleton
+1,1,1,1,1,1,1,0,Decorator
+1,1,1,1,0,0,1,1,Builder
+1,0,1,1,1,0,0,1,Abstract Factory
+0,0,1,1,0,1,1,0,Chain of Responsibility
+0,0,0,0,1,1,0,1,Prototype
+1,1,0,1,1,0,1,0,Flyweight
+1,1,0,0,0,1,0,0,State
+0,0,1,1,0,1,1,1,Facade
+0,1,0,1,1,1,1,0,Decorator
+0,1,1,0,0,0,0,0,Memento
+1,0,0,0,0,1,1,1,Memento
+0,0,1,1,1,1,1,0,Facade
+0,1,0,0,1,1,1,0,Flyweight
+1,0,1,1,0,1,0,0,Singleton
+1,0,1,1,0,0,0,1,Mediator
+0,0,0,1,0,1,1,0,Interpreter
+1,0,1,1,0,1,0,1,Prototype
+0,1,1,1,0,0,0,0,Mediator
+1,0,1,0,1,1,0,0,Builder
+1,1,0,1,1,1,1,0,Proxy
+1,0,0,1,1,0,1,1,Decorator
+1,1,1,1,1,1,0,1,Chain of Responsibility
+0,1,0,1,1,1,1,1,Flyweight
+1,0,0,1,1,0,1,1,Flyweight
+0,1,0,1,1,0,0,1,Builder
+1,0,1,0,0,1,1,0,Bridge
+0,0,0,1,1,1,0,1,Command
+1,1,0,1,1,1,0,1,Observer
+1,0,1,0,0,1,1,1,Template Method
+0,0,1,1,0,0,0,1,Template Method
+1,1,1,1,1,0,0,0,Facade
+0,0,0,1,0,0,1,0,State
+0,1,1,0,1,0,0,1,Mediator
+1,1,0,1,0,0,1,0,Decorator
+1,1,0,0,0,1,0,0,Bridge
+0,1,0,1,1,1,1,0,Visitor
+0,1,1,1,0,1,1,0,Template Method
+0,1,1,1,1,1,1,0,Command
+1,1,0,0,0,1,1,0,Prototype
+1,1,0,0,0,1,1,1,Singleton
+1,0,1,1,0,1,0,0,Singleton
+0,1,1,1,1,0,1,1,Interpreter
+0,1,1,0,1,1,1,1,Bridge
+1,0,1,0,1,0,0,0,Strategy
+1,0,0,0,0,1,1,0,Flyweight
+0,0,1,1,1,0,1,1,Strategy
+0,1,0,1,1,1,0,0,Strategy
+1,1,1,1,1,1,0,0,Proxy
+0,1,1,0,1,1,1,0,Command
+0,0,0,1,0,0,0,0,State
+1,0,1,1,0,0,0,0,Flyweight
+1,1,1,0,1,1,1,0,Iterator
+1,1,1,0,0,1,0,0,Facade
+0,0,1,0,0,0,1,0,Builder
+0,1,0,0,0,1,0,1,Visitor
+1,0,1,0,1,1,0,1,Observer
+0,1,1,1,0,1,0,1,Prototype
+1,1,1,1,1,1,0,0,Builder
+1,0,1,0,1,0,1,1,Interpreter
+1,0,1,0,1,1,1,1,Facade
+0,1,0,1,0,1,0,0,Mediator
+0,1,1,0,0,1,1,0,Facade
+1,0,1,1,0,0,1,0,Decorator
+0,1,1,0,0,1,1,1,Observer
+0,1,0,1,1,1,0,1,State
+1,1,1,1,0,0,1,1,Facade
+0,0,1,1,1,0,1,0,Strategy
+1,0,1,0,0,1,1,1,Facade
+1,0,1,0,0,1,1,1,Adapter
+1,0,0,1,1,0,0,1,Strategy
+0,1,1,0,1,1,0,1,Facade
+1,1,1,0,0,1,0,1,Factory Method
+1,1,1,1,0,1,1,0,Adapter
+0,0,0,0,1,1,1,1,Bridge
+0,0,0,1,0,0,0,1,State
+0,0,1,1,0,1,0,0,Builder
+0,1,1,0,0,1,1,1,Template Method
+0,1,0,1,0,0,0,0,State
+0,1,1,0,1,1,0,0,Adapter
+0,1,1,0,1,1,1,0,Bridge
+1,0,0,1,1,0,0,1,Strategy
+1,1,1,1,0,1,0,1,Abstract Factory
+0,0,1,0,1,0,1,1,Visitor
+0,0,0,1,1,0,1,1,Flyweight
+0,0,1,1,1,0,0,0,Prototype
+1,0,1,1,0,0,1,1,Facade
+0,1,0,1,0,1,1,1,Command
+0,0,0,0,0,1,0,0,Iterator
+1,0,1,0,1,1,0,1,Bridge
+1,1,1,0,1,1,1,0,Abstract Factory
+0,1,1,1,0,1,1,0,Memento
+1,0,1,1,1,1,0,1,Observer
+0,0,0,1,0,1,0,1,Interpreter
+1,1,0,0,1,1,1,1,Singleton
+1,1,0,0,0,1,1,1,Visitor
+0,0,1,0,1,1,0,1,Memento
+0,0,1,1,0,1,0,1,Prototype
+0,0,1,0,0,0,1,0,Visitor
+1,0,0,1,1,0,1,1,State
+0,0,0,1,1,0,1,0,Composite
+1,0,0,0,0,1,1,1,Observer
+0,1,1,1,0,0,1,1,State
+1,1,1,1,1,0,0,0,Abstract Factory
+0,0,1,0,0,0,1,0,Visitor
+0,1,0,1,1,0,0,1,Composite
+1,1,0,0,1,1,0,0,Prototype
+0,1,0,1,1,1,1,1,Observer
+1,1,0,0,1,0,0,0,Flyweight
+1,0,1,1,1,1,0,1,Template Method
+0,0,1,0,0,1,0,1,Command
+0,0,0,1,0,0,1,0,Prototype
+1,0,0,1,0,0,1,1,Memento
+1,1,1,0,1,1,1,0,Factory Method
+1,0,0,0,0,1,1,0,Chain of Responsibility
+0,0,1,0,1,1,0,0,Bridge
+1,1,1,0,1,1,1,1,Observer
+0,1,1,0,0,1,1,0,Command
+0,0,0,1,1,0,1,1,Strategy
+0,0,1,1,0,1,0,1,Visitor
+1,1,1,0,0,0,1,1,Prototype
+0,0,0,1,0,1,0,0,Flyweight
+1,1,0,1,0,1,0,0,Bridge
+1,1,1,0,0,1,1,1,Template Method
+0,1,0,1,1,1,1,0,Visitor
+0,0,1,1,0,0,1,0,Proxy
+1,1,1,1,0,0,0,1,Memento
+0,0,0,0,0,1,1,0,Interpreter
+0,0,0,0,0,1,0,0,Mediator
+0,1,0,0,1,0,0,1,Prototype
+0,0,0,1,0,1,0,0,Interpreter
+1,0,1,0,1,0,1,1,Prototype
+0,1,0,0,1,1,0,0,Chain of Responsibility
+0,0,0,1,0,0,0,0,Mediator
+0,0,1,0,0,1,0,0,Visitor
+1,0,1,1,0,0,0,0,Adapter
+0,0,0,0,1,0,1,1,Builder
+1,1,1,0,0,0,1,1,Singleton
+0,1,0,1,0,1,0,0,Prototype
+1,1,1,0,0,1,0,1,Bridge
+0,1,1,0,0,1,0,1,Facade
+0,1,0,1,0,0,0,0,Memento
+1,0,0,0,0,1,0,1,Observer
+0,0,1,0,0,0,0,1,Adapter
+0,0,0,0,1,0,1,0,Proxy
+1,0,0,0,0,0,0,1,Memento
+0,0,0,0,0,1,0,0,Visitor
+1,1,0,1,1,1,1,1,Builder
+0,1,0,0,0,0,0,1,State
+1,0,0,1,0,1,0,0,Flyweight
+0,0,0,1,1,0,1,0,Proxy
+0,1,1,1,1,0,0,0,Factory Method
+1,1,1,1,1,1,1,0,Adapter
+0,0,1,0,0,1,0,0,Bridge
+0,0,0,1,1,0,1,0,Iterator
+0,0,1,0,0,0,1,1,Visitor
+0,0,0,0,0,0,1,1,Interpreter
+0,1,0,0,0,1,0,0,Memento
+1,0,1,1,0,0,1,0,Singleton
+1,0,1,1,1,1,0,1,Command
+1,0,1,0,1,0,1,0,Iterator
+0,1,0,1,1,0,1,0,Interpreter
+1,0,0,0,1,0,0,0,Composite
+1,0,0,0,0,0,1,1,Visitor
+1,1,1,0,1,1,0,0,Mediator
+0,0,1,0,0,0,1,1,Memento
+0,1,0,1,1,0,1,0,Visitor
+0,1,0,0,1,0,1,1,Template Method
+1,0,1,0,0,0,0,1,Abstract Factory
+0,1,1,1,1,1,0,1,Observer
+1,1,1,0,1,0,0,1,State
+0,0,0,1,0,0,0,1,Composite
+1,1,0,1,0,0,0,0,Template Method
+1,1,0,1,0,0,1,0,Flyweight
+0,1,1,0,0,1,0,1,Template Method
+0,1,1,1,0,0,0,0,Factory Method
+0,0,0,1,1,1,0,1,Chain of Responsibility
+0,0,1,1,0,0,0,0,Adapter
+1,0,1,0,0,1,1,1,Observer
+1,0,0,0,1,1,0,1,Template Method
+1,0,1,0,0,1,0,0,Abstract Factory
+1,0,1,0,0,1,0,1,Memento
+0,1,0,1,1,1,0,0,Flyweight
+1,1,1,1,0,1,1,1,Chain of Responsibility
+1,0,1,1,0,1,1,1,Builder
+0,0,1,1,1,1,1,0,Chain of Responsibility
+0,1,1,1,0,0,0,0,Factory Method
+1,0,1,1,1,1,0,1,Singleton
+1,0,1,1,0,1,1,0,Decorator
+1,0,0,0,0,0,1,0,Builder
+0,0,1,0,0,1,1,1,Template Method
+0,0,1,1,0,1,0,0,Facade
+1,1,1,0,0,0,0,0,Singleton
+1,1,1,1,0,0,1,0,Builder
+0,1,1,1,0,1,1,1,Decorator
+0,1,0,0,1,0,0,1,Visitor
+1,0,1,0,1,1,0,1,Chain of Responsibility
+0,0,1,0,1,0,0,1,Memento
+1,1,0,1,1,1,0,0,Mediator
+0,0,1,1,1,1,1,0,Strategy
+0,1,0,1,1,1,1,0,Command
+0,1,1,1,1,1,1,1,Strategy
+0,0,0,0,1,0,0,1,State
+0,1,1,0,1,0,0,1,Factory Method
+0,1,1,0,0,0,0,0,Adapter
+0,1,1,1,1,1,1,1,Abstract Factory
+1,1,1,1,1,1,0,0,Template Method
+1,1,0,1,0,0,0,1,Singleton
+0,0,1,1,1,0,1,1,Strategy
+1,1,0,0,0,1,1,0,Flyweight
+1,1,1,0,1,1,1,0,Template Method
+1,0,1,0,1,1,0,0,Composite
+1,1,0,1,0,1,1,0,Template Method
+1,0,1,1,0,0,0,0,Template Method
+0,0,0,1,1,1,1,1,Chain of Responsibility
+0,1,1,1,0,0,1,0,Interpreter
+1,1,1,0,1,0,0,0,Factory Method
+0,0,1,0,0,0,0,1,State
+0,0,1,1,0,1,0,0,Interpreter
+0,0,0,1,1,1,1,0,Visitor
+0,0,0,1,1,1,1,1,Observer
+1,1,0,1,1,1,0,1,Chain of Responsibility
+1,0,1,1,0,0,0,0,Composite
+0,0,1,0,1,0,0,1,Template Method
+1,0,1,0,0,0,0,1,Interpreter
+0,1,0,1,1,1,1,1,Observer
+1,1,0,0,1,1,1,1,Builder
+1,1,1,1,1,0,0,0,Proxy
+0,0,1,0,0,1,1,0,Facade
+1,0,0,1,1,0,1,0,Strategy
+0,1,1,0,1,0,0,1,Template Method
+0,0,1,1,0,1,0,0,Proxy
+0,0,0,1,0,1,0,1,Chain of Responsibility
+0,1,1,0,0,0,1,1,Proxy
+0,0,1,1,1,0,1,1,Decorator
+1,1,1,0,1,1,1,1,Observer
+0,1,0,0,0,0,1,1,State
+1,0,0,0,1,1,1,1,Observer
+1,1,0,0,0,1,0,1,Builder
+0,0,1,0,1,1,1,0,Strategy
+1,0,1,1,1,1,1,1,Decorator
+1,0,0,1,1,0,1,1,Flyweight
+0,1,1,0,0,1,0,0,Mediator
+0,0,1,1,1,1,1,1,Facade
+1,1,1,0,0,1,1,1,Prototype
+1,0,1,1,1,0,0,0,State
+0,0,1,0,0,1,1,0,Command
+1,0,1,0,1,0,0,1,State
+1,0,0,0,0,0,1,0,Singleton
+0,1,1,0,1,0,1,1,Adapter
+0,1,1,1,0,1,0,1,Interpreter
+1,1,1,1,0,1,1,0,Facade
+1,0,1,0,1,0,1,0,Template Method
+0,1,0,0,0,1,0,1,Builder
+1,0,1,1,1,0,1,0,Memento
+1,1,1,1,0,1,0,1,Iterator
+1,1,1,0,0,0,0,1,Factory Method
+1,0,1,0,0,1,1,0,Prototype
+0,1,0,1,1,1,0,0,Chain of Responsibility
+1,1,1,1,0,0,0,0,Interpreter
+1,1,1,1,0,0,0,1,Composite
+0,0,1,1,0,0,0,1,Flyweight
+1,0,1,1,1,0,1,1,Iterator
+0,1,1,1,1,0,0,1,Builder
+0,0,0,1,0,1,0,1,Bridge
+1,0,0,1,0,1,1,1,Mediator
+1,0,0,0,0,1,1,0,Iterator
+1,1,0,0,1,1,0,1,Chain of Responsibility
+1,0,1,1,1,0,1,0,Decorator
+0,0,1,0,0,0,0,0,Flyweight
+0,1,1,1,1,0,1,0,State
+1,1,1,0,1,1,0,0,Abstract Factory
+1,0,0,0,0,0,0,0,Memento
+0,0,0,1,1,0,0,0,Proxy
+0,0,0,1,0,0,1,1,Memento
+0,0,0,0,1,1,0,1,Composite
+1,1,1,0,0,0,1,1,Memento
+1,0,0,1,0,0,1,0,Singleton
+1,1,1,1,0,0,0,1,Composite
+0,0,0,1,0,0,0,1,Flyweight
+0,1,1,0,0,1,1,0,Abstract Factory
+1,0,1,0,1,1,0,0,Composite
+1,0,1,0,0,1,1,1,Iterator
+0,1,1,1,0,1,1,0,Command
+1,0,1,1,1,0,0,0,Abstract Factory
+1,0,1,1,0,1,0,1,Composite
+1,1,0,0,1,1,0,1,Bridge
+1,0,1,1,1,0,1,0,Strategy
+1,0,1,0,0,1,0,1,Abstract Factory
+0,0,0,0,1,1,0,1,Mediator
+1,1,0,0,0,1,0,0,Chain of Responsibility
+0,0,0,1,0,1,1,1,Decorator
+0,1,0,0,1,1,0,1,Template Method
+0,0,1,1,1,0,1,0,Visitor
+1,1,1,0,0,0,0,0,Singleton
+0,0,1,0,1,1,0,0,Prototype
+0,0,1,1,1,1,0,0,Proxy
+0,1,1,1,1,0,1,0,Decorator
+0,1,0,0,1,1,0,0,Strategy
+0,0,0,1,1,1,0,1,Builder
+1,1,1,1,0,1,0,1,Factory Method
+1,1,1,0,1,0,1,0,Visitor
+1,0,1,1,1,0,1,1,Builder
+1,1,1,0,1,0,1,0,Flyweight
+1,0,0,1,1,1,1,1,Composite
+1,0,1,1,1,0,1,1,Abstract Factory
+1,1,1,0,0,1,0,1,Factory Method
+1,1,1,1,0,1,0,1,Abstract Factory
+0,1,1,0,1,1,1,1,Strategy
+1,0,0,1,0,1,0,1,Proxy
+1,0,0,0,1,1,0,1,Builder
+0,0,0,0,1,0,1,1,State
+1,0,1,1,0,0,0,1,Singleton
+1,1,1,0,0,0,0,1,Factory Method
+0,1,1,0,1,0,1,1,Abstract Factory
+0,1,1,1,1,1,0,1,Chain of Responsibility
+0,0,0,0,0,1,0,0,Chain of Responsibility
+0,1,1,1,0,1,0,0,Command
+1,1,1,1,1,0,1,1,Decorator
+1,1,1,0,0,1,1,0,Abstract Factory
+0,0,0,1,1,1,1,0,Mediator
+1,0,0,1,0,1,0,1,Prototype
+0,0,0,1,1,0,0,1,Strategy
+1,1,1,0,1,1,0,1,Command
+0,1,0,0,1,0,1,0,Strategy
+1,0,1,1,1,1,1,1,Interpreter
+1,0,1,1,1,1,1,1,Decorator
+0,1,1,1,1,1,0,0,Abstract Factory
+1,1,1,1,0,1,1,1,Factory Method
+1,0,1,1,1,1,1,1,Strategy
+0,1,1,0,1,0,1,0,Visitor
+0,1,1,0,1,1,1,1,Observer
+1,0,0,1,0,1,1,1,Decorator
+0,1,1,0,1,1,1,1,Prototype
+1,0,1,1,1,1,0,1,Facade
+0,0,0,0,0,0,1,1,Memento
+0,1,1,0,1,1,1,0,Memento
+1,0,0,1,0,0,0,1,Prototype
+1,1,1,1,1,1,0,1,Iterator
+1,0,1,1,0,1,0,0,Chain of Responsibility
+1,0,0,0,0,0,1,1,Builder
+0,0,1,0,0,1,1,0,Interpreter
+1,1,0,1,1,0,1,1,Strategy
+0,0,1,1,1,1,1,0,Bridge
+1,1,1,1,1,0,1,1,Visitor
+1,0,1,0,0,0,0,1,Facade
+1,0,1,1,1,1,0,1,Abstract Factory
+0,0,1,1,1,1,1,1,Facade
+0,1,1,1,1,0,0,1,State
+1,1,0,0,1,1,0,1,Chain of Responsibility
+1,1,1,1,0,1,0,0,Factory Method
+0,1,1,0,1,1,0,0,Factory Method
+0,0,0,0,0,1,1,0,Interpreter
+1,0,1,0,1,0,0,1,Singleton
+0,0,1,0,1,0,1,1,Facade
+1,1,1,0,1,0,1,0,Adapter
+0,0,1,0,0,1,0,1,Chain of Responsibility
+1,1,1,0,0,1,0,0,Singleton
+0,1,1,1,1,1,1,0,Decorator
+1,0,1,1,0,0,0,1,Flyweight
+0,1,1,1,0,0,1,1,Template Method
+0,0,0,1,1,1,0,0,Mediator
+1,1,1,0,1,1,1,1,Chain of Responsibility
+0,1,1,0,0,0,1,0,Adapter
+0,1,0,1,1,1,1,1,Interpreter
+1,0,1,0,0,1,0,1,Bridge
+1,0,0,0,0,0,1,1,Prototype
+0,1,0,0,0,1,0,1,Flyweight
+0,0,0,0,0,0,1,1,Prototype
+0,0,1,0,1,0,0,1,Mediator
+1,0,0,1,1,0,1,1,Interpreter
+0,1,1,1,0,1,1,1,Decorator
+1,1,0,0,1,1,0,1,Strategy
+1,1,1,1,1,1,1,0,Factory Method
+0,1,1,0,0,1,1,1,Abstract Factory
+0,0,1,0,1,1,0,1,Command
+1,1,1,0,0,1,0,1,Visitor
+0,0,1,0,1,1,0,1,Builder
+1,1,1,1,0,0,1,0,Proxy
+1,1,1,1,1,1,0,0,Factory Method
+0,0,0,1,1,0,1,1,Decorator
+0,0,1,1,1,1,1,1,Command
+1,1,1,1,0,0,1,0,Decorator
+1,0,0,1,1,0,1,0,Template Method
+1,1,1,1,1,1,0,1,Builder
+0,0,0,1,1,0,0,0,Visitor
+0,0,0,1,0,0,0,1,Memento
+0,1,0,0,0,1,0,1,Bridge
+0,0,0,1,1,0,1,0,Builder
+1,1,0,1,1,0,1,1,Memento
+0,0,1,0,0,1,0,0,Bridge
+0,1,1,1,1,1,1,0,Factory Method
+0,0,0,1,0,1,1,1,Proxy
+1,1,0,0,0,1,1,0,Bridge
+1,0,0,0,1,1,1,1,Visitor
+0,0,0,1,1,1,1,1,Observer
+1,0,1,0,0,0,1,0,Adapter
+1,1,0,0,0,1,1,1,Singleton
+1,0,0,0,1,0,1,0,Prototype
+0,0,1,0,1,1,1,0,Facade
+1,0,0,0,0,1,1,0,Bridge
+0,0,1,1,1,1,0,0,Visitor
+1,1,0,0,0,0,0,0,Visitor
+0,0,1,1,1,1,1,1,Abstract Factory
+0,1,1,0,1,0,0,1,Factory Method
+0,1,0,0,0,1,1,0,Template Method
+0,1,1,0,0,0,0,0,State
+0,0,1,1,1,0,0,1,State
+1,1,1,0,0,1,1,1,Chain of Responsibility
+1,1,1,1,0,0,1,0,Factory Method
+1,0,0,0,1,0,1,1,Singleton
+1,1,0,0,0,0,0,1,Mediator
+0,0,1,0,1,0,0,1,Prototype
+1,1,0,0,0,1,1,0,Chain of Responsibility
+0,1,1,0,0,1,1,1,Chain of Responsibility
+0,1,0,1,0,1,1,0,Chain of Responsibility
+0,1,1,0,0,1,0,1,Bridge
+1,1,0,1,0,1,0,1,Proxy
+0,0,1,0,1,1,0,1,Prototype
+0,1,1,0,1,0,1,1,Iterator
+1,0,0,0,0,1,1,0,Command
+1,1,0,0,0,1,0,1,Command
+1,0,0,0,0,1,0,0,Interpreter
+0,1,1,1,0,0,1,1,Factory Method
+1,0,1,0,1,1,1,0,Iterator
+1,1,0,0,1,0,0,1,Flyweight
+0,1,1,1,0,1,1,0,Factory Method
+0,1,1,0,1,0,0,1,Strategy
+1,0,1,1,1,0,1,1,Mediator
+0,0,0,0,1,1,0,1,Command
+0,1,1,1,1,1,0,1,Bridge
+0,0,1,1,1,0,0,1,Prototype
+0,1,1,1,0,1,0,1,Factory Method
+0,1,1,1,1,1,0,1,Mediator
+0,1,0,1,1,1,0,1,Memento
+1,1,1,0,1,1,1,0,Composite
+1,1,1,0,0,1,1,0,Memento
+1,0,1,0,1,1,1,1,Observer
+0,1,1,1,0,1,1,1,Observer
+1,1,1,1,1,0,0,1,Composite
+0,1,0,0,0,1,0,1,Bridge
+1,1,1,0,0,0,1,1,Iterator
+0,1,1,1,1,0,1,0,Memento
+0,0,1,1,0,1,1,0,Adapter
+0,1,1,0,1,1,1,1,Bridge
+1,0,1,0,1,1,1,1,Facade
+1,1,1,1,1,1,1,1,Iterator
+1,1,1,0,0,1,1,1,Interpreter
+1,0,0,1,1,1,0,0,Interpreter
+1,0,1,0,1,0,1,1,Visitor
+0,0,1,1,1,1,0,1,Proxy
+1,0,0,0,1,1,1,0,Strategy
+1,1,1,0,1,0,1,0,Factory Method
+1,0,0,1,1,1,1,1,Composite
+0,0,0,0,0,0,0,1,Memento
+1,0,1,0,1,0,1,1,Singleton
+1,0,1,1,1,1,1,1,Interpreter
+1,1,1,1,1,1,1,0,Facade
+1,1,0,1,0,1,1,0,State
+1,0,0,1,0,0,0,1,Mediator
+0,0,1,0,1,1,0,1,Memento
+1,1,0,0,0,1,0,1,Composite
+1,1,1,1,0,0,0,1,Adapter
+0,1,1,0,1,0,0,1,Strategy
+1,1,0,1,0,0,1,0,Decorator
+1,0,1,1,0,0,1,1,Iterator
+1,0,0,1,1,0,1,0,Flyweight
+0,0,1,0,1,0,0,1,Template Method
+1,1,1,0,0,0,1,0,Abstract Factory
+0,0,0,0,1,1,1,0,Template Method
+1,0,0,0,1,0,1,0,Singleton
+0,0,1,1,0,1,1,0,Chain of Responsibility
+1,1,0,0,1,1,1,0,Bridge
+1,1,0,0,1,1,0,0,Prototype
+1,1,0,0,1,1,1,0,Composite
+0,0,1,1,1,1,0,1,Flyweight
+1,0,1,1,0,0,1,1,Template Method
+1,1,1,1,1,1,0,1,Command
+1,0,1,0,0,1,0,0,Visitor
+0,1,0,1,1,0,0,1,Prototype
+0,0,1,1,0,0,1,0,Iterator
+1,1,1,1,0,0,0,1,Memento
+0,0,1,1,1,1,1,1,Abstract Factory
+0,0,1,1,0,1,1,1,Observer
+1,0,0,1,0,1,0,0,Interpreter
+0,0,1,1,0,1,1,0,Facade
+1,0,0,0,1,0,0,0,Strategy
+1,1,1,1,0,1,1,0,Factory Method
+1,1,0,0,1,0,1,1,Strategy
+0,1,0,0,1,1,1,0,Memento
+1,0,0,1,0,1,1,0,Decorator
+0,1,1,1,0,1,1,0,Factory Method
+0,0,1,0,0,0,0,0,Interpreter
+1,1,1,1,0,0,0,0,Composite
+0,0,1,0,1,0,0,0,Prototype
+0,0,0,1,0,1,0,0,Template Method
+1,1,1,1,0,1,1,0,Factory Method
+0,1,0,0,1,0,1,0,Composite
+0,1,1,1,1,1,0,1,Command
+0,0,0,1,1,1,1,0,Strategy
+1,0,0,0,1,1,0,0,Visitor
+0,1,0,0,1,0,0,0,Iterator
+0,1,1,1,0,1,1,1,Bridge
+1,0,1,0,1,1,1,1,Singleton
+1,0,1,0,1,1,1,0,Iterator
+1,0,1,0,0,0,1,1,Abstract Factory
+1,0,1,0,1,1,1,0,Memento
+0,1,0,0,0,1,0,1,State
+0,1,1,1,1,0,1,0,Facade
+1,0,0,1,1,0,1,0,Proxy
+0,0,0,0,1,1,1,1,Strategy
+1,0,0,0,0,0,0,1,Proxy
+0,1,1,0,0,0,1,1,Mediator
+1,1,1,0,1,1,1,0,Command
+0,1,0,0,0,0,0,1,Template Method
+0,1,0,1,0,0,1,1,Visitor
+1,0,1,0,0,0,1,0,Adapter
+0,0,1,1,0,0,0,1,Proxy
+1,0,1,1,1,0,1,1,Abstract Factory
+1,1,1,1,1,1,1,0,Interpreter
+1,1,0,1,1,1,0,1,Composite
+1,0,0,0,1,0,0,1,Visitor
+0,0,1,0,1,0,0,0,Proxy
+0,0,1,1,0,0,0,0,Proxy
+0,1,1,0,0,0,1,1,Proxy
+0,0,1,0,0,1,0,0,Facade
+0,1,0,0,1,1,1,0,Command
+1,1,1,1,0,1,0,1,Observer
+1,0,0,1,0,1,0,1,Bridge
+0,0,0,0,0,1,1,0,Interpreter
+1,1,1,1,1,1,1,0,Adapter
+1,0,1,0,0,0,1,1,Mediator
+0,0,0,0,0,0,0,1,Composite
+1,1,1,1,0,1,0,0,Abstract Factory
+1,0,0,1,1,1,1,1,Memento
+1,0,1,0,1,0,1,1,Iterator
+0,0,1,1,1,0,1,1,Strategy
+1,1,1,0,1,1,0,1,Adapter
+1,0,1,0,1,1,0,1,Abstract Factory
+0,1,0,0,0,1,0,0,Mediator
+1,0,1,1,0,0,0,0,Flyweight
+1,1,0,0,1,1,1,1,Strategy
+0,0,0,1,0,1,0,1,Chain of Responsibility
+0,1,1,0,0,1,0,0,Template Method
+1,0,1,1,1,1,1,0,Mediator
+1,0,0,0,1,0,0,0,Builder
+0,0,0,0,1,1,1,1,Bridge
+1,0,1,0,1,1,0,0,Bridge
+1,0,0,0,1,0,0,0,Singleton
+0,1,1,0,0,1,0,0,Abstract Factory
+1,0,1,1,1,1,1,1,Adapter
+1,1,1,1,0,1,1,0,Interpreter
+0,1,1,0,1,0,0,1,Proxy
+1,0,1,0,0,0,0,0,Flyweight
+0,0,1,0,0,1,0,0,Adapter
+1,0,0,0,1,1,1,1,Flyweight
+1,1,0,0,0,1,1,1,Flyweight
+1,0,1,1,0,0,0,1,Facade
+1,0,1,0,0,0,0,0,Composite
+1,1,1,1,1,1,1,0,Singleton
+0,0,0,1,0,1,1,0,Proxy
+0,0,0,0,0,1,1,1,Interpreter
+1,1,0,1,1,1,1,1,Strategy
+0,1,1,0,0,1,1,1,Adapter
+1,0,1,1,1,1,0,1,Strategy
+0,0,1,0,1,1,1,1,Chain of Responsibility
+0,0,0,1,0,1,1,1,Decorator
+0,0,1,0,1,0,1,0,Abstract Factory
+1,1,0,0,0,1,0,1,Command
+1,0,1,1,0,1,0,0,Memento
+1,1,1,0,1,0,1,0,Interpreter
+0,0,0,0,0,1,0,0,Template Method
+1,0,0,1,1,1,1,1,Command
+1,0,0,0,0,0,0,1,Mediator
+0,0,1,0,1,0,0,1,Facade
+1,0,0,1,1,0,1,1,Builder
+1,1,1,1,1,1,0,1,Factory Method
+0,1,1,0,0,0,0,0,Abstract Factory
+0,1,1,0,0,1,1,1,Chain of Responsibility
+0,1,1,0,1,0,0,0,Adapter
+1,0,1,0,0,1,1,1,Observer
+0,1,0,1,1,1,0,1,Command
+1,0,1,0,1,0,0,0,Template Method
+1,0,0,1,1,0,1,0,Mediator
+0,0,0,1,1,1,1,1,Template Method
+1,0,1,0,0,0,1,0,Abstract Factory
+1,1,0,0,1,0,0,1,Proxy
+1,1,1,1,0,0,1,1,Abstract Factory
+1,1,1,0,1,1,0,1,Facade
+0,1,1,1,1,1,1,0,Memento
+0,1,0,0,1,0,1,0,Strategy
+0,0,1,1,0,0,0,0,Adapter
+1,1,1,0,1,0,0,0,Iterator
+0,0,1,0,0,1,0,1,Adapter
+1,1,1,0,1,1,0,0,Strategy
+1,0,0,1,1,1,0,0,Composite
+1,0,0,0,0,0,0,1,Singleton
+0,1,0,0,0,0,1,0,Visitor
+1,1,1,0,0,1,1,1,Singleton
+0,0,1,1,1,1,1,1,Decorator
+1,0,1,1,1,1,0,1,Iterator
+0,0,0,1,0,1,0,1,Observer
+0,1,1,1,0,0,1,0,Builder
+1,0,1,0,0,1,1,1,Builder
+1,1,1,0,1,0,1,0,Factory Method
+0,1,0,0,1,0,1,0,Strategy
+0,1,1,1,0,1,0,1,Template Method
+1,1,1,0,1,0,0,1,Interpreter
+0,0,1,0,0,1,1,0,Prototype
+1,0,1,1,1,1,1,1,Chain of Responsibility
+0,1,1,0,1,1,0,1,Factory Method
+0,0,1,1,1,0,1,1,Memento
+1,0,0,0,1,1,0,1,Observer
+0,0,1,1,1,0,0,0,Interpreter
+0,1,1,1,1,0,0,0,Prototype
+1,0,0,0,0,0,1,0,State
+1,1,1,1,0,0,0,1,Flyweight
+0,1,1,0,1,1,1,0,Builder
+0,0,1,0,1,0,1,1,Interpreter
+1,1,0,1,0,1,1,1,Command
+1,0,1,1,1,0,0,1,Proxy
+1,1,1,1,0,1,0,0,Prototype
+0,0,0,0,1,0,0,0,Builder
+1,1,1,0,1,0,0,1,Factory Method
+0,0,0,1,0,1,0,1,Chain of Responsibility
+0,1,0,0,1,1,0,0,Command
+0,1,1,0,0,1,1,0,Builder
+0,0,1,1,1,0,0,0,Memento
+1,1,0,1,0,1,0,1,Composite
+1,0,1,1,0,1,1,0,Decorator
+0,0,1,1,1,1,1,0,Decorator
+0,0,0,1,0,1,1,1,Proxy
+1,1,1,0,1,1,1,1,Singleton
+0,1,1,0,0,1,1,0,Command
+1,1,1,1,0,0,1,0,Factory Method
+1,0,1,0,1,1,0,1,Strategy
+0,1,1,0,0,1,1,1,Chain of Responsibility
+1,0,0,0,0,1,1,1,Interpreter
+1,0,1,1,1,0,1,1,Interpreter
+1,0,0,1,0,0,1,0,Decorator
+0,0,1,1,0,1,1,0,Chain of Responsibility
+0,0,1,0,1,0,1,0,Visitor
+0,0,1,1,0,0,1,0,Iterator
+0,1,1,1,0,1,0,1,Factory Method
+0,1,0,1,0,1,0,1,Composite
+0,1,0,1,1,1,1,1,Memento
+1,0,1,0,0,1,0,1,Command
+1,0,0,1,0,1,0,1,Iterator
+0,1,0,1,0,1,0,0,Builder
+1,0,1,0,0,1,0,1,Observer
+1,1,1,1,0,1,0,1,Command
+1,1,0,0,0,0,0,1,Proxy
+0,1,1,1,0,1,0,0,Command
+1,1,0,0,0,1,0,0,Singleton
+1,1,1,1,1,1,1,1,Observer
+0,1,1,0,1,1,0,0,Chain of Responsibility
+1,1,1,1,1,1,0,0,Singleton
+0,0,0,0,1,1,0,1,Observer
+1,0,0,1,1,1,0,1,Singleton
+0,0,1,1,0,1,0,0,Abstract Factory
+1,1,1,0,1,1,0,0,Iterator
+0,0,1,0,0,0,0,1,Iterator
+1,1,1,1,0,1,1,1,Adapter
+0,1,0,0,1,1,1,0,Strategy
+0,1,1,0,1,1,1,1,Adapter
+0,1,1,0,0,1,1,0,Abstract Factory
+0,0,0,1,0,0,1,1,Memento
+1,1,1,1,1,0,0,1,Interpreter
+0,0,1,0,0,1,1,1,Adapter
+1,1,1,1,1,1,0,0,Interpreter
+1,1,0,1,1,0,0,1,Visitor
+0,0,0,1,1,0,0,0,Template Method
+1,1,1,0,0,0,0,0,Singleton
+1,0,1,0,0,0,1,1,Template Method
+0,0,0,0,1,0,1,0,Template Method
+0,1,0,0,1,1,0,1,Prototype
+1,1,1,1,0,1,1,0,State
+1,1,0,1,0,0,0,0,Prototype
+1,1,1,0,0,0,0,0,Facade
+1,1,1,0,1,0,1,0,Mediator
+1,1,1,1,0,1,1,1,Command
+0,0,1,0,1,0,1,1,Template Method
+0,0,1,1,0,1,1,1,Abstract Factory
+1,0,1,1,0,1,0,1,Iterator
+0,0,0,1,1,1,1,1,Visitor
+0,0,0,1,0,0,1,1,Template Method
+1,1,0,0,1,1,0,0,Iterator
+0,1,1,1,1,1,1,1,Flyweight
+0,1,1,1,0,1,0,0,Facade
+1,1,0,1,0,0,1,0,Flyweight
+0,1,1,1,0,0,1,1,Factory Method
+1,1,0,0,1,1,0,0,State
+1,0,1,0,1,0,0,0,Abstract Factory
+0,1,1,0,0,0,0,1,Prototype
+0,0,0,1,1,1,0,0,Template Method
+0,1,1,1,1,1,0,0,Abstract Factory
+1,1,1,1,1,0,0,0,Template Method
+1,0,1,0,0,0,0,0,Facade
+0,0,0,0,1,1,0,1,Observer
+1,1,1,0,0,0,0,0,Factory Method
+1,0,1,0,0,1,0,0,Abstract Factory
+0,1,0,1,0,0,1,0,Decorator
+0,1,1,1,1,0,0,0,Prototype
+1,0,0,1,0,0,0,0,Interpreter
+0,0,1,1,0,0,0,0,Prototype
+0,0,1,1,0,0,1,0,Iterator
+1,0,1,0,0,1,0,0,Facade
+0,0,0,0,0,1,1,0,Template Method
+0,0,1,0,0,0,0,0,Visitor
+1,1,0,0,1,1,1,1,Observer
+0,1,0,0,0,0,1,1,Proxy
+1,1,1,1,0,1,0,1,Chain of Responsibility
+0,1,0,1,0,1,1,1,Decorator
+0,1,0,1,1,1,1,0,Command
+1,1,1,0,0,1,0,0,Abstract Factory
+1,0,0,1,1,0,0,0,Strategy
+1,1,1,1,1,1,0,1,Facade
+0,1,1,1,1,0,0,1,Abstract Factory
+0,0,0,0,0,0,1,1,Mediator
+1,0,1,1,0,0,1,1,Singleton
+1,1,0,0,1,1,0,1,Proxy
+1,1,1,1,1,0,1,1,Singleton
+1,1,1,0,1,0,1,1,Abstract Factory
+1,1,1,1,1,1,0,1,Composite
+0,1,0,1,1,0,0,0,State
+1,1,0,0,0,0,0,0,Mediator
+0,1,1,0,0,1,0,0,Template Method
+1,0,0,0,0,0,0,0,Memento
+1,1,0,0,1,0,0,1,Mediator
+0,0,1,0,1,1,0,1,Template Method
+0,1,1,1,1,0,1,1,Strategy
+0,1,1,1,0,1,1,0,Builder
+1,0,0,0,0,1,1,1,State
+1,0,1,0,0,1,1,0,Composite
+1,1,1,1,1,1,1,0,Interpreter
+1,1,1,0,1,0,0,1,Abstract Factory
+1,0,0,0,0,1,0,1,Observer
+0,0,1,0,0,0,0,0,Abstract Factory
+1,0,0,0,1,0,0,1,Strategy
+1,0,0,1,0,0,1,0,Template Method
+1,0,1,0,0,0,1,1,Interpreter
+0,0,1,0,1,0,0,0,State
+0,0,1,1,1,1,1,1,Command
+1,1,1,1,1,1,0,0,Factory Method
+0,0,1,1,0,0,0,1,Prototype
+1,1,1,0,1,1,1,1,Adapter
+0,0,1,0,0,1,1,1,Observer
+1,0,0,1,0,1,0,0,Template Method
+1,1,1,0,0,0,1,1,Iterator
+0,1,1,1,1,0,0,1,Abstract Factory
+0,0,1,1,0,1,1,0,Interpreter
+1,1,0,1,0,1,1,0,Interpreter
+0,1,0,1,1,1,1,1,Decorator
+1,0,0,1,0,0,0,0,Composite
+0,1,1,1,1,0,1,1,Abstract Factory
+0,1,0,0,1,1,0,0,Memento
+1,1,1,0,0,1,0,1,Observer
+0,1,1,0,0,1,1,1,State
+1,0,1,0,0,0,0,0,Iterator
+1,0,1,0,0,0,0,0,Flyweight
+1,0,0,0,1,1,0,0,Singleton
+0,0,0,1,1,0,1,0,Decorator
+1,0,0,1,1,0,1,0,Flyweight
+0,1,0,1,0,1,1,1,Builder
+0,1,0,1,1,0,0,1,State
+1,0,1,0,0,1,1,0,Chain of Responsibility
+1,0,1,1,0,0,1,0,Mediator
+0,0,1,1,0,0,0,0,Abstract Factory
+1,0,0,0,1,1,1,1,Flyweight
+1,0,0,0,0,1,1,1,Observer
+0,1,1,1,0,0,1,0,Adapter
+0,0,0,0,0,1,1,1,Iterator
+1,0,0,0,0,0,0,0,Proxy
+0,1,0,1,0,1,1,0,Flyweight
+1,1,1,1,0,1,0,0,Mediator
+1,0,1,0,0,0,0,1,Prototype
+1,0,1,0,1,0,1,1,Abstract Factory
+1,1,1,0,0,0,1,1,Iterator
+0,0,0,0,1,1,0,0,Builder
+0,1,0,0,0,1,1,1,Observer
+0,0,0,0,0,1,0,1,Prototype
+1,0,0,1,1,1,0,0,Command
+0,1,0,0,1,1,0,0,Prototype
+0,1,1,0,0,1,1,1,Composite
+0,1,1,1,0,1,0,0,Facade
+0,0,1,0,0,1,1,1,Observer
+1,0,0,0,0,1,1,0,Bridge
+1,1,1,0,1,0,1,1,Factory Method
+0,0,0,0,0,1,1,1,Proxy
+1,1,1,1,0,1,0,1,Mediator
+0,1,1,0,1,0,0,0,Prototype
+0,0,1,1,1,0,1,1,Abstract Factory
+1,0,1,1,1,0,1,0,Proxy
+0,1,1,1,1,1,1,1,Factory Method
+0,0,0,1,1,0,1,1,Mediator
+0,0,0,0,0,1,1,0,Visitor
+0,0,1,1,1,0,1,1,Builder
+1,1,0,0,0,0,0,1,Flyweight
+0,1,0,0,1,0,0,0,Strategy
+1,0,0,1,1,1,1,1,Prototype
+1,1,1,1,1,1,1,1,Prototype
+0,0,1,1,0,1,1,1,Composite
+0,1,0,1,1,1,1,0,Interpreter
+1,1,1,0,1,0,0,1,Abstract Factory
+0,1,0,1,1,1,1,0,Memento
+1,1,0,0,0,1,1,0,Bridge
+0,1,0,1,1,1,1,1,Strategy
+0,1,1,0,0,1,0,0,Mediator
+1,1,1,1,1,1,1,0,Command
+0,1,0,0,0,1,0,1,Template Method
+1,0,1,0,1,1,1,0,Template Method
+1,0,1,1,0,1,0,0,Visitor
+1,0,1,0,0,1,1,0,Singleton
+1,1,1,0,0,0,1,0,Iterator
+1,1,1,1,1,1,0,0,Prototype
+0,1,0,0,0,0,0,1,Interpreter
+1,0,0,1,0,0,1,1,State
+1,1,0,0,1,1,1,1,Iterator
+0,1,1,0,1,0,1,1,Abstract Factory
+0,0,1,1,0,0,0,1,Memento
+1,1,1,1,0,0,1,0,Factory Method
+0,1,0,0,1,1,1,1,Template Method
+0,1,0,0,1,0,1,1,Interpreter
+0,1,1,1,1,1,0,0,Facade
+0,1,1,1,0,0,1,0,Composite
+0,0,0,1,1,1,1,0,Decorator
+1,1,1,1,0,0,0,1,Template Method
+1,0,1,1,0,1,1,1,Facade
+1,1,0,0,1,1,1,1,Iterator
+0,0,0,1,1,1,0,0,Command
+0,1,1,1,0,0,0,1,Adapter
+1,0,1,0,1,0,0,0,Mediator
+0,1,1,1,0,0,1,1,Adapter
+1,1,0,1,1,1,1,1,Prototype
+0,1,0,1,0,1,1,0,Template Method
+0,0,1,1,1,1,0,0,Builder
+0,1,0,1,1,0,0,1,Builder
+1,0,1,0,1,0,0,1,Adapter
+1,0,0,0,0,1,0,1,Chain of Responsibility
+0,0,0,0,1,0,1,0,Iterator
+0,0,1,0,1,1,1,0,Builder
+1,1,0,1,0,1,1,1,Decorator
+0,1,0,0,1,1,1,0,Chain of Responsibility
+0,1,1,1,0,0,1,1,Proxy
+0,1,0,1,1,0,1,0,State
+1,0,1,1,1,1,0,0,Strategy
+1,1,0,0,1,1,0,0,Builder
+0,1,0,0,1,0,0,1,Composite
+0,1,1,1,0,1,1,1,Bridge
+0,0,1,0,1,1,1,1,Abstract Factory
+0,0,1,1,0,1,0,0,Bridge
+1,1,1,0,1,0,0,0,Facade
+0,0,0,0,0,0,0,0,State
+0,1,0,0,1,1,0,1,Composite
+0,0,0,0,0,1,0,1,Observer
+1,0,1,0,0,1,1,0,Command
+1,1,1,1,1,0,1,0,Interpreter
+0,1,1,1,1,1,1,1,Decorator
+0,1,0,1,1,0,1,1,Strategy
+0,0,1,0,0,1,1,1,Iterator
+0,1,1,0,1,0,1,1,Iterator
+0,0,0,0,1,1,0,1,Builder
+1,1,0,1,1,1,1,0,Decorator
+0,1,0,0,1,0,0,1,Prototype
+0,0,0,1,0,1,1,1,Composite
+1,1,0,0,1,0,1,1,Flyweight
+0,0,0,0,0,1,1,1,Proxy
+1,0,0,1,1,1,0,0,Bridge
+1,0,0,0,1,1,0,0,Visitor
+1,1,0,1,0,0,1,0,Composite
+0,1,0,0,1,1,0,0,Visitor
+1,1,1,0,1,1,1,1,Composite
+1,0,1,1,0,1,0,1,Abstract Factory
+0,1,1,1,0,0,0,0,Adapter
+1,1,0,0,1,1,0,0,Memento
+1,1,1,0,0,0,0,1,Facade
+0,1,0,1,1,1,1,0,Bridge
+0,1,1,0,0,0,0,1,Factory Method
+0,0,1,0,1,0,0,0,State
+0,0,0,0,1,0,1,0,Strategy
+1,0,1,0,0,1,1,1,Chain of Responsibility
+1,0,0,1,1,0,1,0,Iterator
+1,1,1,0,1,1,0,0,Facade
+1,1,1,0,1,0,1,0,Factory Method
+0,0,0,0,1,1,0,1,Prototype
+0,1,1,0,1,1,1,0,Chain of Responsibility
+0,1,0,1,0,1,1,1,Memento
+0,1,0,0,0,0,0,0,Memento
+1,1,0,0,1,0,0,0,Strategy
+1,1,1,1,1,0,1,0,Decorator
+1,0,0,0,0,0,1,0,Interpreter
+1,1,1,0,1,1,0,0,Memento
+1,1,0,1,1,1,0,0,Singleton
+0,1,1,0,1,0,0,0,Factory Method
+1,1,0,1,0,1,0,0,Chain of Responsibility
+1,1,1,1,1,0,0,1,Facade
+1,1,1,1,0,0,0,1,Visitor
+0,0,1,1,1,0,0,0,Template Method
+0,1,1,1,0,1,0,1,Chain of Responsibility
+1,0,1,0,0,0,1,0,State
+1,1,1,1,1,0,0,0,State
+1,1,1,1,1,1,1,0,Mediator
+0,0,0,1,0,0,0,0,State
+1,0,1,1,1,0,0,0,Builder
+0,0,1,1,1,1,1,1,Observer
+0,0,1,1,1,0,1,1,Decorator
+0,0,1,1,1,1,1,0,Facade
+0,1,1,1,0,0,1,0,Abstract Factory
+0,1,0,0,1,1,0,0,Strategy
+0,0,1,1,1,1,0,1,Strategy
+1,1,1,1,1,1,1,1,Iterator
+0,0,1,1,1,1,0,1,Abstract Factory
+1,0,0,0,0,1,1,1,Template Method
+1,1,1,0,0,1,0,1,State
+0,0,0,0,0,1,0,1,Bridge
+0,1,1,0,1,1,1,1,Observer
+1,1,0,1,0,0,1,0,Decorator
+0,0,1,0,0,1,0,1,Mediator
+0,1,0,0,0,0,1,1,Iterator
+0,1,1,0,1,1,1,0,Facade
+0,1,1,0,0,1,1,1,Prototype
+0,0,0,1,0,1,0,0,Command
+0,1,0,0,1,1,1,1,Command
+0,1,1,1,0,0,1,0,Iterator
+1,0,1,1,0,1,0,0,Mediator
+1,0,1,0,0,1,1,0,Composite
+1,1,0,1,1,0,1,1,Strategy
+1,1,1,1,1,1,0,0,Template Method
+1,0,0,1,0,0,1,1,Memento
+0,1,1,1,0,1,1,0,Factory Method
+0,1,1,1,1,1,0,1,Command
+1,0,1,0,1,1,1,1,Prototype
+0,0,1,1,0,0,1,1,Facade
+1,1,0,1,0,0,0,0,Singleton
+0,0,0,0,1,0,0,0,Flyweight
+0,0,1,0,0,1,0,1,Template Method
+0,1,1,0,1,0,1,1,Adapter
+1,0,0,1,0,1,1,1,Proxy
+0,1,1,0,0,1,0,0,Bridge
+1,1,0,0,1,1,1,1,Template Method
+1,1,1,0,1,0,0,1,Abstract Factory
+0,0,1,0,0,1,1,0,Command
+0,1,1,0,1,1,1,0,Composite
+0,0,0,1,0,0,0,0,Flyweight
+0,1,1,1,1,0,1,0,Abstract Factory
+1,1,1,0,0,1,0,1,Abstract Factory
+1,0,1,0,1,1,0,1,Memento
+0,0,0,1,1,0,1,0,Memento
+0,0,1,0,1,1,0,0,Chain of Responsibility
+0,0,1,1,0,1,0,0,Proxy
+1,1,1,0,1,0,0,1,Factory Method
+1,1,1,1,1,0,0,1,Facade
+1,0,1,1,1,1,0,1,Adapter
+0,0,1,1,0,1,1,0,Abstract Factory
+0,1,1,1,1,1,1,1,Command
+1,0,1,1,0,0,0,1,Builder
+1,1,1,1,1,0,0,1,Facade
+0,1,1,1,1,0,0,0,Strategy
+1,1,1,0,1,1,0,0,Composite
+0,1,1,1,1,1,0,1,Iterator
+1,0,1,0,1,1,0,0,Template Method
+0,1,1,0,0,1,0,1,Adapter
+1,0,0,1,0,0,0,1,Memento
+0,1,1,0,1,1,1,1,Bridge
+1,0,1,1,0,0,1,1,Singleton
+1,0,1,0,1,0,0,1,Composite
+1,0,1,1,1,1,0,0,Mediator
+1,0,0,0,0,1,0,0,Bridge
+0,0,0,0,0,0,1,1,Visitor
+1,1,0,1,0,1,1,1,Flyweight
+0,1,1,1,0,1,1,0,Factory Method
+1,1,0,0,1,1,0,1,Visitor
+1,1,0,0,0,1,0,1,Observer
+1,1,0,1,1,0,1,0,Memento
+1,0,1,1,1,1,1,0,Decorator
+1,0,0,1,0,1,0,1,Observer
+0,1,1,0,0,1,1,0,Builder
+1,1,0,0,0,1,1,1,Chain of Responsibility
+1,0,0,1,1,1,1,1,Decorator
+1,1,0,0,1,0,0,1,Strategy
+0,0,1,0,0,0,1,1,Facade
+0,1,1,0,1,0,1,1,Builder
+1,1,1,0,0,1,1,1,Composite
+1,1,1,0,1,1,1,1,Factory Method
+1,1,1,0,0,0,0,1,State
+0,0,1,0,1,0,0,0,Visitor
+0,0,1,0,0,0,0,0,Visitor
+0,0,1,1,1,0,0,0,Flyweight
+0,1,0,1,1,0,1,1,Mediator
+1,0,1,1,1,0,1,1,Decorator
+0,1,1,1,1,0,0,1,Strategy
+0,1,0,1,1,0,1,0,Visitor
+1,0,1,1,0,1,1,1,Observer
+0,1,0,0,1,1,0,1,Strategy
+0,0,1,1,1,1,1,1,Visitor
+1,1,1,0,0,1,0,0,Abstract Factory
+0,1,1,1,1,1,0,0,Template Method
+1,0,0,0,0,1,0,0,Interpreter
+1,0,0,0,1,1,1,0,State
+0,0,1,1,1,1,1,0,Command
+1,0,1,0,0,1,0,1,Singleton
+0,1,1,1,1,1,0,0,Adapter
+0,0,0,0,0,1,1,0,Bridge
+1,0,1,0,0,1,1,0,Flyweight
+1,0,0,0,0,1,1,0,Singleton
+0,0,1,1,0,0,0,0,Builder
+1,0,1,1,0,0,1,0,Interpreter
+1,0,0,1,0,1,1,0,Decorator
+0,1,1,1,0,1,1,1,Facade
+0,0,0,0,0,1,0,1,Mediator
+0,1,0,0,1,1,0,1,Memento
+0,1,1,1,1,1,0,0,Builder
+1,1,1,0,1,1,0,0,Iterator
+1,0,1,1,1,1,1,1,Flyweight
+0,0,1,1,1,0,0,0,Interpreter
+1,1,0,1,1,1,0,1,Iterator
+1,1,1,1,0,1,1,0,Adapter
+1,0,1,1,1,0,0,0,Memento
+1,1,1,1,1,1,0,1,Bridge
+0,1,1,0,0,1,0,0,Mediator
+1,0,1,1,1,1,0,1,Singleton
+1,1,0,0,1,1,0,1,Observer
+1,1,1,0,1,0,0,1,Strategy
+0,1,1,1,0,1,1,1,Decorator
+1,1,1,1,1,1,1,0,Command
+0,1,0,1,1,1,0,1,Interpreter
+1,0,1,1,1,1,1,0,Decorator
+1,1,1,1,1,1,0,0,Visitor
+1,1,0,0,1,1,0,0,Proxy
+1,1,0,0,0,1,0,1,Composite
+0,1,0,1,1,1,0,1,Builder
+1,1,0,1,1,0,0,0,Prototype
+0,1,1,0,0,1,0,0,Chain of Responsibility
+0,0,1,0,0,0,1,0,Mediator
+0,0,1,1,0,1,1,0,Builder
+0,0,1,0,0,0,0,0,Flyweight
+0,1,0,1,1,1,1,1,Composite
+1,0,1,1,1,0,1,0,Interpreter
+0,0,0,0,0,1,0,1,Command
+1,0,1,1,1,1,1,1,Command
+1,0,0,0,0,0,1,1,State
+1,0,1,1,1,1,0,0,Prototype
+1,0,0,1,0,0,1,1,Template Method
+0,1,0,0,1,0,1,0,Builder
+0,1,1,1,1,0,0,1,Prototype
+0,0,0,1,0,1,0,1,Chain of Responsibility
+1,1,1,0,0,0,1,0,Adapter
+0,1,0,1,1,1,1,1,State
+0,0,0,1,0,0,1,0,Visitor
+1,0,1,1,1,1,1,0,Prototype
+1,0,1,1,0,1,1,1,Facade
+1,1,0,0,1,0,1,1,Strategy
+0,1,1,0,1,0,1,1,Proxy
+0,1,1,0,0,1,1,0,Composite
+0,0,1,0,1,1,1,1,Visitor
+0,0,1,1,0,0,0,1,Interpreter
+1,0,1,1,0,1,1,1,Bridge
+0,0,1,1,1,0,1,0,State
+1,1,0,1,0,1,1,1,Observer
+1,0,1,1,0,1,1,1,State
+1,0,0,1,1,1,0,0,Composite
+0,0,1,1,0,1,0,1,Bridge
+1,0,0,1,0,1,0,1,Flyweight
+1,1,0,1,1,1,0,1,Proxy
+1,0,0,1,0,1,0,0,Builder
+1,1,0,0,0,1,0,1,Mediator
+1,1,1,1,1,0,1,0,Decorator
+0,1,1,1,1,0,1,0,Adapter
+0,1,0,0,1,0,1,1,Strategy
+1,1,0,0,1,1,1,0,Template Method
+1,0,1,1,0,1,1,0,State
+1,1,0,0,1,1,0,0,Chain of Responsibility
+1,1,1,1,1,1,1,1,Factory Method
+0,0,1,0,1,0,0,1,Proxy
+1,1,0,0,1,1,0,0,Chain of Responsibility
+0,0,1,1,1,1,0,1,Adapter
+1,0,0,1,0,1,1,1,Command
+0,0,1,0,0,1,0,1,Facade
+0,1,0,1,1,0,1,1,Decorator
+1,1,1,1,0,1,1,0,Proxy
+1,1,0,0,1,1,1,1,Chain of Responsibility
+1,0,0,0,1,1,0,1,Strategy
+0,0,0,1,1,1,1,0,Proxy
+1,0,1,0,1,1,0,1,Chain of Responsibility
+0,0,0,0,0,0,0,1,Mediator
+1,1,1,0,0,1,1,0,Template Method
+1,1,0,0,0,1,0,0,Chain of Responsibility
+0,1,1,0,0,0,1,1,State
+0,0,0,0,1,1,1,1,Proxy
+0,0,1,0,0,1,0,1,Adapter
+0,1,0,0,1,1,0,1,Builder
+1,0,1,1,1,1,0,0,Mediator
+1,0,1,1,1,0,1,1,Decorator
+1,1,1,0,1,1,0,0,Proxy
+1,0,1,0,0,0,0,0,State
+1,1,1,0,0,0,0,1,Adapter
+0,0,1,0,1,1,0,0,Strategy
+0,1,0,0,0,0,1,0,Builder
+1,0,1,1,0,1,1,1,Adapter
+1,1,1,1,0,0,0,0,Iterator
+1,1,1,1,0,0,1,0,Adapter
+0,1,1,1,1,1,1,0,Visitor
+0,1,1,0,0,1,0,1,Adapter
+1,1,0,0,1,0,0,0,Builder
+0,1,1,1,1,1,0,0,Factory Method
+1,0,1,1,0,0,0,1,Flyweight
+0,1,0,1,1,0,1,1,State
+0,1,0,1,1,1,1,1,Memento
+1,1,1,1,0,1,1,1,Flyweight
+0,1,1,1,0,0,0,0,Interpreter
+1,0,1,0,1,1,1,1,Bridge
+1,1,0,0,1,1,1,1,Observer
+0,1,1,1,1,1,0,1,Bridge
+0,1,1,0,1,0,1,0,Factory Method
+1,1,1,1,0,0,0,0,Composite
+1,1,0,0,0,0,0,0,Interpreter
+1,0,0,1,0,0,0,0,Composite
+1,0,0,0,1,1,0,1,Strategy
+0,0,1,0,1,0,0,1,Visitor
+1,0,1,1,0,1,1,1,Command
+1,1,1,0,1,1,1,0,Bridge
+1,0,0,1,1,1,1,0,Interpreter
+0,0,1,0,1,1,1,1,Facade
+0,0,0,1,0,1,0,1,Interpreter
+0,1,1,1,1,1,0,1,Facade
+1,1,0,1,0,1,0,1,Chain of Responsibility
+0,0,0,0,0,1,1,1,Flyweight
+1,0,1,1,0,0,0,1,Iterator
+1,1,1,0,1,1,1,1,Command
+1,0,0,0,0,0,0,0,Prototype
+1,1,1,0,1,0,0,1,Strategy
+1,0,0,1,0,0,1,1,Flyweight
+1,0,1,1,0,1,0,1,Facade
+0,0,1,1,1,0,0,1,Interpreter
+1,0,0,1,0,0,0,1,Template Method
+0,0,1,1,1,0,0,1,Adapter
+0,0,1,0,0,1,1,1,Prototype
+1,1,0,1,0,0,0,0,Flyweight
+1,0,0,1,0,1,0,0,Singleton
+1,1,1,1,1,0,1,0,Factory Method
+1,0,1,0,1,0,1,1,Composite
+1,0,1,0,0,0,1,1,Builder
+0,0,1,1,1,0,0,1,Template Method
+0,1,0,0,0,1,1,0,Bridge
+0,0,0,0,1,0,1,0,Visitor
+0,1,0,0,1,0,0,0,Prototype
+0,0,0,0,1,1,1,0,Bridge
+0,1,1,1,0,1,0,0,Builder
+0,1,1,0,0,0,0,1,Adapter
+1,0,0,0,1,0,1,1,Proxy
+0,1,1,1,0,1,1,0,Factory Method
+1,1,0,0,0,0,0,1,Singleton
+0,0,0,0,0,1,0,0,Visitor
+1,0,1,0,0,0,1,0,Builder
+0,0,1,1,1,0,0,1,Template Method
+1,0,1,1,0,1,1,1,Mediator
+1,1,1,0,1,0,0,0,Template Method
+1,1,1,1,0,1,0,1,Adapter
+0,1,0,0,0,0,0,0,Template Method
+1,1,1,1,1,1,0,0,Iterator
+0,0,1,1,0,1,0,0,Template Method
+1,1,0,1,0,1,0,1,State
+1,1,0,0,0,1,0,1,Template Method
+1,0,1,1,1,1,0,0,Command
+0,0,0,1,1,1,0,0,Command
+1,0,1,0,1,1,0,0,Singleton
+1,0,1,0,0,1,1,0,Adapter
+1,1,1,1,1,1,0,0,Abstract Factory
+1,0,0,1,0,1,1,1,Decorator
+0,1,1,0,1,0,0,1,Adapter
+1,0,1,1,1,0,0,1,Flyweight
+0,0,0,0,0,1,0,1,Observer
+1,1,1,0,1,1,0,1,Bridge
+1,1,0,0,1,0,0,1,State
+0,0,1,0,1,0,1,0,Flyweight
+1,0,1,0,0,1,0,1,Proxy
+1,1,1,0,1,1,0,0,Command
+1,0,0,0,0,0,0,0,Interpreter
+0,1,0,1,0,1,1,1,Observer
+0,1,1,0,1,0,0,0,Visitor
+0,1,1,1,1,1,1,1,Decorator
+0,0,1,0,1,1,1,1,Proxy
+0,1,1,1,1,0,0,0,Visitor
+1,1,1,0,0,0,1,1,Adapter
+1,0,1,1,0,1,1,1,Abstract Factory
+0,0,1,0,1,1,1,1,Adapter
+0,1,1,1,0,1,0,1,Prototype
+0,1,0,1,1,1,0,0,Bridge
+1,0,1,1,1,0,1,0,Decorator
+1,0,0,1,0,1,1,1,Observer
+1,0,1,0,1,0,0,0,Builder
+0,0,0,1,0,1,0,0,Proxy
+0,0,1,0,0,1,0,0,Bridge
+0,1,1,1,1,0,1,1,Template Method
+1,0,0,1,1,1,1,1,Prototype
+1,1,1,0,1,1,1,1,Composite
+1,1,1,1,0,0,1,1,Abstract Factory
+1,0,0,1,0,1,0,0,Prototype
+1,1,1,1,0,0,0,0,Adapter
+1,1,0,0,1,0,1,0,Interpreter
+0,0,1,0,1,0,1,1,Adapter
+0,0,1,0,1,0,1,0,Facade
+0,1,1,1,1,1,0,1,Composite
+0,1,0,1,0,1,1,1,Decorator
+1,1,1,1,0,0,1,1,Flyweight
+0,0,1,1,1,1,0,1,Abstract Factory
+1,0,1,1,1,1,0,1,Proxy
+0,1,1,1,1,0,0,1,Memento
+1,0,1,1,0,1,1,1,Observer
+0,1,1,1,0,0,1,1,Prototype
+1,0,1,1,0,0,0,1,Template Method
+1,0,1,1,1,0,0,1,Abstract Factory
+1,0,1,0,1,1,1,1,Strategy
+1,0,0,0,1,1,0,0,Strategy
+0,0,1,1,1,0,0,1,Facade
+0,0,1,0,0,0,1,1,Template Method
+0,1,1,0,1,1,0,1,Observer
+0,1,1,0,1,1,0,0,Composite
+0,1,1,1,1,1,1,1,Prototype
+1,1,1,0,0,1,0,0,Command
+0,1,0,1,1,1,1,0,Prototype
+0,0,1,1,0,0,1,0,Interpreter
+1,1,1,0,1,0,1,1,Prototype
+0,0,0,0,0,1,1,1,Observer
+1,0,1,1,1,1,1,0,Strategy
+0,0,1,0,1,0,1,0,Proxy
+1,1,0,1,1,0,0,0,Flyweight
+0,1,0,1,1,1,0,1,Chain of Responsibility
+1,1,1,0,1,1,1,1,Observer
+1,0,1,0,1,1,0,1,Observer
+1,1,1,1,1,1,1,0,Decorator
+1,1,1,1,0,0,1,0,Factory Method
+0,1,1,0,1,1,1,1,Factory Method
+1,1,1,1,0,1,1,1,Iterator
+0,0,1,0,1,0,0,1,Adapter
+1,0,0,1,1,1,0,1,Builder
+1,0,1,1,0,1,0,1,Adapter
+1,1,1,1,1,0,1,1,Facade
+0,0,1,1,1,1,1,1,Abstract Factory
+1,0,1,1,0,1,0,1,Adapter
+0,1,0,1,1,1,1,1,Decorator
+0,1,0,0,0,0,0,0,Mediator
+0,1,1,1,1,1,0,1,Factory Method
+1,1,1,1,1,1,0,1,Abstract Factory
+1,1,0,0,0,1,0,1,Singleton
+0,0,1,0,0,1,0,1,Prototype
+1,0,1,0,0,0,0,0,Singleton
+1,0,1,1,1,1,0,1,Abstract Factory
+0,1,1,1,1,1,1,1,Observer
+0,0,1,1,1,1,0,0,Command
+1,0,1,0,1,0,0,1,Interpreter
+1,1,1,0,0,1,0,0,Singleton
+0,0,1,1,0,0,0,0,Visitor
+1,0,0,1,1,0,1,0,Mediator
+0,1,0,0,0,0,1,0,Prototype
+1,1,1,1,1,1,1,0,Template Method
+1,1,1,0,0,1,1,0,State
+0,0,1,1,0,1,0,1,Interpreter
+0,1,1,1,1,1,0,1,Visitor
+0,0,1,1,0,0,1,1,Adapter
+0,1,1,1,0,1,1,1,Decorator
+1,0,1,0,1,0,0,0,Strategy
+1,0,1,0,1,1,1,0,Memento
+1,0,1,0,0,0,1,0,Abstract Factory
+1,1,1,1,1,0,1,1,Factory Method
+1,0,1,1,0,1,1,1,Bridge
+1,0,0,1,0,0,0,1,State
+1,1,0,1,1,1,0,0,Proxy
+1,1,1,0,1,1,1,0,Factory Method
+1,1,1,1,1,1,0,0,Mediator
+1,1,1,0,1,0,1,0,Template Method
+0,0,1,1,1,0,0,1,Memento
+1,1,1,1,1,0,1,0,Interpreter
+1,1,1,1,1,1,1,0,Iterator
+0,1,1,1,1,0,1,1,Mediator
+0,0,0,1,0,1,1,1,Builder
+0,0,1,1,0,1,0,1,Builder
+0,1,1,0,1,1,0,0,Bridge
+0,0,1,1,1,1,1,0,Builder
+1,1,1,1,1,1,1,1,Iterator
+0,1,0,1,0,1,1,0,Command
+0,0,0,1,0,1,0,1,Memento
+1,1,1,1,0,0,1,1,Template Method
+0,0,0,1,1,1,1,1,Mediator
+1,1,0,0,1,0,1,1,Singleton
+1,0,1,0,1,1,1,1,Facade
+1,1,1,1,1,1,1,1,Observer
+0,0,1,0,1,0,0,1,Strategy
+1,0,0,0,1,0,0,0,Interpreter
+1,1,1,1,0,0,0,0,Interpreter
+1,1,1,0,0,0,0,0,Factory Method
+0,1,1,1,0,1,0,1,Flyweight
+0,1,0,0,0,0,0,1,Iterator
+0,0,1,0,1,0,0,1,Interpreter
+1,0,0,0,0,1,1,1,Visitor
+0,1,1,1,0,1,1,1,Facade
+0,0,1,0,0,0,0,0,Adapter
+0,1,0,0,0,1,0,1,Proxy
+0,1,1,0,0,0,1,1,Memento
+1,0,1,1,1,0,1,1,State
+1,1,1,1,1,1,0,0,Command
+1,1,1,0,1,1,0,1,Command
+0,0,1,0,0,0,1,0,Adapter
+1,1,1,1,1,1,1,0,Bridge
+0,0,0,1,1,0,0,0,Template Method
+0,1,1,1,1,1,1,1,Memento
+1,1,0,0,1,1,0,0,Memento
+0,0,1,0,1,1,0,1,State
+0,1,1,1,1,1,0,0,Visitor
+0,1,0,1,0,0,0,1,Builder
+1,1,1,0,0,0,1,0,Visitor
+1,1,1,0,1,1,1,0,Flyweight
+1,1,0,0,0,1,1,0,Command
+1,1,1,1,0,1,1,1,Chain of Responsibility
+0,1,1,1,1,1,1,1,Decorator
+1,0,1,1,1,0,0,1,Abstract Factory
+0,0,1,1,0,1,1,1,Decorator
+0,0,1,0,1,0,1,1,Proxy
+1,1,0,1,1,1,0,1,Observer
+0,1,0,1,0,0,1,1,Mediator
+1,1,1,1,0,1,1,1,State
+1,0,0,0,0,0,1,0,Visitor
+1,1,1,1,1,1,0,0,Template Method
+0,1,0,1,1,1,1,0,Strategy
+0,1,1,1,0,0,1,0,Adapter
+1,0,1,1,0,1,0,1,Iterator
+1,1,1,0,1,1,1,1,Factory Method
+1,0,0,0,1,0,0,0,Visitor
+0,1,0,1,1,1,0,1,State
+1,1,1,1,1,0,1,0,Decorator
+0,0,0,1,0,0,1,1,Flyweight
+0,1,1,0,1,0,0,1,Adapter
+1,1,1,0,1,0,1,0,Adapter
+0,1,1,0,1,0,1,0,Proxy
+0,1,0,1,0,1,1,0,Proxy
+0,1,0,0,0,1,1,0,Prototype
+0,1,1,0,0,0,1,1,Proxy
+1,0,1,0,1,1,0,1,Prototype
+1,0,0,0,0,1,0,0,Chain of Responsibility
+0,0,1,0,1,1,0,1,Observer
+1,1,0,1,0,0,1,1,Decorator
+1,1,1,1,1,1,0,0,Facade
+0,0,0,1,0,1,1,0,Prototype
+1,1,0,0,0,0,0,1,Builder
+0,1,1,0,0,0,0,1,Adapter
+0,1,1,1,1,1,1,1,Prototype
+1,1,1,0,0,0,0,0,Prototype
+1,1,1,0,1,0,1,0,Proxy
+1,1,0,1,0,1,0,0,Mediator
+1,0,1,0,1,1,1,1,Chain of Responsibility
+0,0,0,0,1,1,0,1,Bridge
+1,1,1,1,1,1,0,1,Proxy
+1,0,1,1,1,1,1,0,Chain of Responsibility
+0,0,0,1,1,1,1,1,Decorator
+0,0,1,1,1,0,0,1,Composite
+1,1,1,1,0,0,0,1,Factory Method
+0,0,0,1,1,0,1,1,Decorator
+0,1,0,0,1,0,0,1,Mediator
+0,0,1,1,0,1,0,1,Abstract Factory
+1,0,0,0,0,1,0,0,Proxy
+1,1,1,0,0,1,1,0,Proxy
+0,1,0,0,0,1,1,0,Command
+0,1,1,1,1,0,0,1,Adapter
+1,0,1,1,1,1,1,0,Chain of Responsibility
+1,1,1,0,1,1,1,1,Proxy
+0,1,0,1,1,1,0,1,Memento
+0,1,1,0,1,1,1,0,Iterator
+0,1,0,1,1,0,1,0,Decorator
+1,1,0,0,0,1,1,0,Prototype
+0,1,1,1,1,1,0,1,Bridge
+1,0,1,1,1,1,1,1,Decorator
+0,1,1,1,1,1,1,1,Factory Method
+1,1,1,0,0,0,0,0,Visitor
+0,0,1,0,1,0,1,1,Flyweight
+1,1,1,1,1,1,1,1,Memento
+1,0,0,0,1,0,1,1,State
+1,0,1,1,0,0,0,0,Proxy
+0,0,1,0,1,0,1,1,Strategy
+0,0,0,1,0,0,1,1,Prototype
+1,0,1,0,1,1,1,1,Singleton
+0,1,0,1,1,1,0,1,Composite
+0,0,0,0,1,0,1,1,Builder
+0,1,1,1,1,0,0,1,Composite
+0,1,1,1,1,1,0,1,Bridge
+0,0,1,1,1,1,1,0,Chain of Responsibility
+1,0,1,0,0,1,1,1,Mediator
+0,0,1,1,0,1,1,0,Adapter
+1,0,0,1,0,1,1,0,Interpreter
+0,0,1,0,0,0,0,0,Iterator
+1,0,1,1,1,1,0,1,Observer
+0,1,1,0,0,1,1,0,Builder
+1,0,0,1,0,1,1,1,Decorator
+0,0,0,0,1,1,1,0,Composite
+0,1,1,1,0,0,1,1,Decorator
+1,0,0,1,1,1,0,0,Prototype
+1,0,1,0,1,1,1,1,Chain of Responsibility
+1,1,1,1,0,1,1,1,Iterator
+1,1,0,1,1,1,1,1,Command
+0,0,1,0,0,1,1,1,Template Method
+0,0,1,1,1,1,0,0,Flyweight
+1,1,1,0,1,0,1,1,State
+0,0,1,1,1,0,1,0,State
+0,1,1,0,1,1,1,0,Strategy
+0,1,0,1,0,0,1,0,Builder
+0,1,0,0,1,1,1,1,Builder
+1,0,1,1,0,1,1,0,Singleton
+0,1,1,1,1,1,0,0,Visitor
+1,0,1,0,1,0,0,0,Memento
+1,1,1,1,0,0,1,0,Factory Method
+0,0,1,1,1,0,0,1,Composite
+0,0,1,1,1,1,0,1,Interpreter
+0,0,1,0,1,1,0,0,Flyweight
+0,1,0,0,1,0,0,1,State
+1,0,0,1,1,1,1,1,Singleton
+0,1,1,1,0,0,1,1,Composite
+1,1,0,1,0,1,1,0,Chain of Responsibility
+0,1,1,0,1,1,1,0,Prototype
+1,0,1,1,1,0,1,0,Interpreter
+0,1,0,0,1,1,1,0,Mediator
+0,1,0,1,1,1,1,0,Memento
+0,1,1,1,1,0,0,1,Template Method
+1,0,0,0,1,1,0,1,Template Method
+0,1,1,0,1,1,0,0,State
+0,1,1,0,0,0,1,0,Proxy
+1,1,1,1,0,0,1,1,Facade
+0,0,0,1,1,1,0,1,Flyweight
+0,0,0,1,1,0,0,0,Interpreter
+1,0,1,0,0,0,1,0,Interpreter
+0,1,1,1,0,1,0,1,Abstract Factory
+1,0,1,1,1,0,0,1,Adapter
+0,1,1,0,1,0,1,0,Facade
+1,1,1,1,0,1,0,1,Bridge
+0,0,0,0,1,0,0,1,Iterator
+1,1,0,1,1,1,0,0,Strategy
+0,1,1,1,0,1,0,0,Iterator
+0,1,1,1,1,1,0,1,Factory Method
+0,0,1,1,0,1,0,0,Command
+0,0,1,1,0,0,1,0,Mediator
+0,0,1,0,0,0,0,0,Prototype
+0,0,1,1,0,0,0,1,Template Method
+1,0,1,0,0,0,0,1,Memento
+1,1,0,1,0,1,0,0,Mediator
+0,0,1,0,1,0,0,0,Interpreter
+1,0,0,0,0,0,0,0,State
+1,1,0,1,1,0,1,1,Interpreter
+0,0,1,0,0,1,1,1,Adapter
+1,1,1,0,0,0,0,0,Abstract Factory
+0,0,0,1,1,1,1,0,Chain of Responsibility
+1,0,1,0,0,1,1,1,Adapter
+1,1,1,1,0,1,1,0,State
+0,0,0,0,0,0,1,0,Builder
+0,0,0,1,1,0,0,1,Prototype

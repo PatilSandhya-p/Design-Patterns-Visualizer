@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}Home -Design Patterns Visualizer{% endblock %}
+
+{% block content %}
+    <section class="hero">
+        <h2>Welcome to the Design Patterns Visualizer!</h2>
+        {% if not current_user.is_authenticated %}
+            <div class="auth-links">
+                <a href="{{ url_for('login') }}" class="btn primary">Login</a> {# Changed to primary #}
+                <a href="{{ url_for('register') }}" class="btn secondary">Register</a>
+            </div>
+        {% else %}
+            <p>Ready to explore? <a href="{{ url_for('predict') }}" class="btn primary">Start Predicting Patterns</a></p>
+        {% endif %}
+    </section>
+
+   
+  
+{% endblock %}

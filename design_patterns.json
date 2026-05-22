@@ -1,0 +1,156 @@
+{
+    "Singleton": {
+        "dot_code": "digraph Singleton {\n    rankdir=LR;\n    node [shape=record];\n    SingletonClass [label=\"{SingletonClass|-instance: SingletonClass\\n-SingletonClass()| +getInstance(): SingletonClass}\"];\n}",
+        "explanation_text": "The Singleton pattern ensures that a class has only one instance and provides a global point of access to that instance. It's useful for managing a single shared resource, like a database connection or a logger. Key characteristics include a private constructor and a static method to return the single instance.",
+        "characteristics": ["single instance", "global access", "resource management", "lazy initialization", "private constructor", "static method"],
+        "example_context": "When you need to ensure that only one instance of a class exists across the entire application, like a database connection pool or a configuration manager."
+    },
+    "Factory Method": {
+        "dot_code": "digraph FactoryMethod {\n    rankdir=LR;\n    node [shape=record];\n    Product [label=\"{Product|+operation()}\"];\n    ConcreteProductA [label=\"{ConcreteProductA|+operation()}\"];\n    ConcreteProductB [label=\"{ConcreteProductB|+operation()}\"];\n    Creator [label=\"{Creator| +factoryMethod(): Product\\n+anOperation()}\"];\n    ConcreteCreatorA [label=\"{ConcreteCreatorA| +factoryMethod(): ConcreteProductA}\"];\n    ConcreteCreatorB [label=\"{ConcreteCreatorB| +factoryMethod(): ConcreteProductB}\"];\n\n    Creator -> Product [label=\"creates\", arrowhead=vee, style=dashed];\n    ConcreteCreatorA -> ConcreteProductA [label=\"creates\", arrowhead=vee, style=dashed];\n    ConcreteCreatorB -> ConcreteProductB [label=\"creates\", arrowhead=vee, style=dashed];\n\n    ConcreteProductA --|> Product;\n    ConcreteProductB --|> Product;\n\n    ConcreteCreatorA --|> Creator;\n    ConcreteCreatorB --|> Creator;\n}",
+        "explanation_text": "The Factory Method pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate. It defers instantiation to subclasses, promoting loose coupling between the creator and the concrete products. It's useful when a class can't anticipate the class of objects it must create.",
+        "characteristics": ["object creation", "interface", "subclass instantiation", "loose coupling", "product family", "abstraction"],
+        "example_context": "When a framework needs to standardize the creation of components, but allows users to define the specific type of component being created. E.g., a UI toolkit where different buttons (WindowsButton, MacButton) are created by different factories (WindowsFactory, MacFactory)."
+    },
+    "Observer": {
+        "dot_code": "digraph Observer {\n    rankdir=LR;\n    node [shape=record];\n\n    Subject [label=\"{Subject|+attach(observer): void\\n+detach(observer): void\\n+notify(): void\\n-state}\"];\n    ConcreteSubject [label=\"{ConcreteSubject|+getState(): State\\n+setState(state): void}\"];\n    Observer [label=\"{Observer|+update(): void}\"];\n    ConcreteObserverA [label=\"{ConcreteObserverA|-subject: ConcreteSubject\\n-observerState: State|+update(): void}\"];\n    ConcreteObserverB [label=\"{ConcreteObserverB|-subject: ConcreteSubject\\n-observerState: State|+update(): void}\"];\n\n    ConcreteSubject --|> Subject;\n    ConcreteObserverA --|> Observer;\n    ConcreteObserverB --|> Observer;\n\n    Subject -> Observer [label=\"knows about\", arrowhead=vee];\n    ConcreteObserverA -> ConcreteSubject [label=\"observes\", arrowhead=normal];\n    ConcreteObserverB -> ConcreteSubject [label=\"observes\", arrowhead=normal];\n}",
+        "explanation_text": "The Observer pattern defines a one-to-many dependency between objects so that when one object (the subject) changes state, all its dependents (observers) are notified and updated automatically. It's often used for event handling systems, allowing a publisher to notify subscribers without explicit knowledge of them.",
+        "characteristics": ["one-to-many dependency", "event handling", "decoupling", "publish-subscribe", "state change notification", "asynchronous updates"],
+        "example_context": "When multiple UI components (observers) need to be updated when the underlying data model (subject) changes, without the data model needing to know about the specific UI components."
+    },
+    "Strategy": {
+        "dot_code": "digraph Strategy {\n    rankdir=LR;\n    node [shape=record];\n\n    Context [label=\"{Context|-strategy: Strategy\\n+setStrategy(strategy): void\\n+executeStrategy(): void}\"];\n    Strategy [label=\"{Strategy|+execute(): void}\"];\n    ConcreteStrategyA [label=\"{ConcreteStrategyA|+execute(): void}\"];\n    ConcreteStrategyB [label=\"{ConcreteStrategyB|+execute(): void}\"];\n\n    Context -> Strategy [label=\"has\", arrowhead=normal];\n    ConcreteStrategyA --|> Strategy;\n    ConcreteStrategyB --|> Strategy;\n}",
+        "explanation_text": "The Strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it. It promotes polymorphism and allows easy addition of new algorithms without modifying the context class.",
+        "characteristics": ["algorithm encapsulation", "interchangeable algorithms", "context", "polymorphism", "loose coupling", "behavioral", "flexible algorithms"],
+        "example_context": "When you have a class that performs a particular action, but that action can be implemented in several different ways. E.g., different sorting algorithms, different payment methods, or different validation rules."
+    },
+    "Decorator": {
+        "dot_code": "digraph Decorator {\n    rankdir=LR;\n    node [shape=record];\n\n    Component [label=\"{Component|+operation(): string}\"];\n    ConcreteComponent [label=\"{ConcreteComponent|+operation(): string}\"];\n    Decorator [label=\"{Decorator|-component: Component\\n+operation(): string}\"];\n    ConcreteDecoratorA [label=\"{ConcreteDecoratorA|+operation(): string\\n+addedBehaviorA(): string}\"];\n    ConcreteDecoratorB [label=\"{ConcreteDecoratorB|+operation(): string\\n+addedBehaviorB(): string}\"];\n\n    ConcreteComponent --|> Component;\n    Decorator --|> Component;\n    ConcreteDecoratorA --|> Decorator;\n    ConcreteDecoratorB --|> Decorator;\n\n    Decorator -> Component [label=\"decorates\", arrowhead=normal];\n}",
+        "explanation_text": "The Decorator pattern attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality. It wraps an object, providing new behaviors without changing the object's interface.",
+        "characteristics": ["dynamic functionality", "object wrapping", "runtime extension", "alternative to subclassing", "flexible", "composition over inheritance"],
+        "example_context": "When you want to add responsibilities to individual objects, not to an entire class, and without complicating the class hierarchy. E.g., adding logging, encryption, or compression to a data stream."
+    },
+    "Adapter": {
+        "dot_code": "digraph Adapter {\n    rankdir=LR;\n    node [shape=record];\n\n    Target [label=\"{Target|+request(): void}\"];\n    Adapter [label=\"{Adapter|-adaptee: Adaptee\\n+request(): void}\"];\n    Adaptee [label=\"{Adaptee|+specificRequest(): void}\"];\n    Client [label=\"{Client|+doSomething(target: Target): void}\"];\n\n    Adapter --|> Target;\n    Adapter -> Adaptee [label=\"adapts\", arrowhead=normal];\n    Client -> Target [label=\"uses\", arrowhead=vee];\n}",
+        "explanation_text": "The Adapter pattern allows incompatible interfaces to work together. It acts as a wrapper between two objects, catching calls for one object and transforming them into a format recognizable by the second object. It enables classes with different interfaces to collaborate.",
+        "characteristics": ["interface mismatch", "incompatible objects", "wrapper", "translation", "reusability", "structural"],
+        "example_context": "When you have an existing class (Adaptee) with a useful functionality, but its interface is not compatible with the interface your client code expects (Target). E.g., integrating a legacy library into a modern application."
+    },
+    "Command": {
+        "dot_code": "digraph Command {\n    rankdir=LR;\n    node [shape=record];\n\n    Command [label=\"{Command|+execute(): void}\"];\n    ConcreteCommand [label=\"{ConcreteCommand|-receiver: Receiver\\n-argument: string\\n+execute(): void}\"];\n    Receiver [label=\"{Receiver|+action(arg: string): void}\"];\n    Invoker [label=\"{Invoker|-command: Command\\n+setCommand(command): void\\n+executeCommand(): void}\"];\n    Client [label=\"{Client}\"];\n\n    ConcreteCommand --|> Command;\n\n    Client -> ConcreteCommand [label=\"creates\"];\n    Client -> Invoker [label=\"creates\"];\n    Client -> Receiver [label=\"creates\"];\n\n    Invoker -> Command [label=\"stores\", arrowhead=normal];\n    ConcreteCommand -> Receiver [label=\"delegates\", arrowhead=normal];\n}",
+        "explanation_text": "The Command pattern encapsulates a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations. It decouples the object that invokes the operation from the object that knows how to perform it.",
+        "characteristics": ["encapsulate request", "decoupling", "undo/redo", "queue requests", "log requests", "parameterize clients", "behavioral"],
+        "example_context": "When you need to support undoable operations, create a transaction system, or implement a macro recording feature. E.g., a GUI button that triggers an action without knowing the action details."
+    }
+,
+"Builder": {
+  "dot_code": "digraph Builder { rankdir=LR; node [shape=record]; Director -> Builder; Builder -> Product; }",
+  "explanation_text": "The Builder pattern separates the construction of a complex object from its representation so that the same construction process can create different representations.",
+  "characteristics": ["step by step construction", "complex object", "separation of construction"],
+  "example_context": "When creating complex objects like a house or document with multiple configurations."
+},
+
+"Prototype": {
+  "dot_code": "digraph Prototype { rankdir=LR; node [shape=record]; Prototype -> Clone; }",
+  "explanation_text": "The Prototype pattern creates new objects by copying an existing object, known as the prototype.",
+  "characteristics": ["object cloning", "copy instance", "reuse existing object"],
+  "example_context": "When object creation is costly and cloning is more efficient."
+},
+
+"Facade": {
+  "dot_code": "digraph Facade { rankdir=LR; node [shape=record]; Facade -> Subsystem; }",
+  "explanation_text": "The Facade pattern provides a simplified interface to a complex system.",
+  "characteristics": ["simplified interface", "hide complexity", "single access point"],
+  "example_context": "When providing a simple interface to a complex library."
+},
+
+"Bridge": {
+  "dot_code": "digraph Bridge { rankdir=LR; node [shape=record]; Abstraction -> Implementor; }",
+  "explanation_text": "The Bridge pattern separates abstraction from implementation so both can vary independently.",
+  "characteristics": ["decoupling", "abstraction", "independent variation"],
+  "example_context": "When separating interface and implementation, like remote and device."
+},
+
+"Composite": {
+  "dot_code": "digraph Composite { rankdir=LR; node [shape=record]; Component -> Leaf; Component -> Composite; }",
+  "explanation_text": "The Composite pattern allows objects to be composed into tree structures and treated uniformly.",
+  "characteristics": ["tree structure", "hierarchy", "uniform treatment"],
+  "example_context": "When representing part-whole hierarchies like file systems."
+},
+
+"Flyweight": {
+  "dot_code": "digraph Flyweight { rankdir=LR; node [shape=record]; FlyweightFactory -> Flyweight; }",
+  "explanation_text": "The Flyweight pattern reduces memory usage by sharing common parts of objects.",
+  "characteristics": ["memory optimization", "shared objects", "reuse"],
+  "example_context": "When creating many similar objects like characters in a text editor."
+},
+
+"Proxy": {
+  "dot_code": "digraph Proxy { rankdir=LR; node [shape=record]; Proxy -> RealSubject; }",
+  "explanation_text": "The Proxy pattern provides a placeholder to control access to another object.",
+  "characteristics": ["control access", "lazy loading", "security"],
+  "example_context": "When controlling access to sensitive or heavy resources."
+},
+
+"Chain of Responsibility": {
+  "dot_code": "digraph Chain { rankdir=LR; node [shape=record]; Handler1 -> Handler2 -> Handler3; }",
+  "explanation_text": "This pattern passes a request along a chain of handlers until one handles it.",
+  "characteristics": ["request chain", "decoupling", "flexible handling"],
+  "example_context": "When multiple handlers can process a request."
+},
+
+"Interpreter": {
+  "dot_code": "digraph Interpreter { rankdir=LR; node [shape=record]; Expression -> TerminalExpression; }",
+  "explanation_text": "The Interpreter pattern defines a grammar and interprets sentences in a language.",
+  "characteristics": ["language processing", "grammar", "interpretation"],
+  "example_context": "When building compilers or expression evaluators."
+},
+
+"Iterator": {
+  "dot_code": "digraph Iterator { rankdir=LR; node [shape=record]; Aggregate -> Iterator; }",
+  "explanation_text": "The Iterator pattern provides a way to access elements of a collection sequentially.",
+  "characteristics": ["sequential access", "collection traversal"],
+  "example_context": "When iterating through lists or collections."
+},
+
+"Mediator": {
+  "dot_code": "digraph Mediator { rankdir=LR; node [shape=record]; Mediator -> Colleague; }",
+  "explanation_text": "The Mediator pattern defines an object that controls communication between objects.",
+  "characteristics": ["centralized communication", "reduce coupling"],
+  "example_context": "When many objects interact in complex ways."
+},
+
+"Memento": {
+  "dot_code": "digraph Memento { rankdir=LR; node [shape=record]; Originator -> Memento; Caretaker -> Memento; }",
+  "explanation_text": "The Memento pattern captures and restores an object's internal state.",
+  "characteristics": ["state saving", "undo support"],
+  "example_context": "When implementing undo/redo functionality."
+},
+
+"State": {
+  "dot_code": "digraph State { rankdir=LR; node [shape=record]; Context -> State; }",
+  "explanation_text": "The State pattern allows an object to change behavior when its state changes.",
+  "characteristics": ["state-dependent behavior", "dynamic changes"],
+  "example_context": "When behavior changes based on state like a traffic signal."
+},
+
+"Template Method": {
+  "dot_code": "digraph Template { rankdir=LR; node [shape=record]; AbstractClass -> ConcreteClass; }",
+  "explanation_text": "Defines the skeleton of an algorithm and lets subclasses override steps.",
+  "characteristics": ["algorithm structure", "inheritance", "reuse"],
+  "example_context": "When multiple classes share common workflow."
+},
+
+"Visitor": {
+  "dot_code": "digraph Visitor { rankdir=LR; node [shape=record]; Visitor -> Element; }",
+  "explanation_text": "The Visitor pattern allows adding operations to objects without modifying them.",
+  "characteristics": ["extensibility", "separation of operations"],
+  "example_context": "When performing operations on object structures."
+}
+,
+"Abstract Factory": {
+  "dot_code": "digraph AbstractFactory { rankdir=LR; node [shape=record]; AbstractFactory -> ConcreteFactory; ConcreteFactory -> ProductA; ConcreteFactory -> ProductB; }",
+  "explanation_text": "The Abstract Factory pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes.",
+  "characteristics": ["family of objects", "related products", "factory interface"],
+  "example_context": "When a system needs to create multiple related objects, like UI components for different platforms (Windows, Mac)."
+}
+}

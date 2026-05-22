@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block title %}Predict Design Patterns{% endblock %}
+
+{% block content %}
+    <section class="prediction-input">
+        <h2>Predict Design Pattern</h2>
+        
+        <form method="POST" enctype="multipart/form-data">
+
+    <label>Input:</label>
+    <textarea name="code" rows="4"></textarea>
+
+    <br><br>
+
+    <label>OR Upload Code File (.py / .java / .txt):</label>
+    <input type="file" name="file">
+
+    <br><br>
+
+    <label>Select Model:</label>
+    <select name="model_selector">
+        {% for model_name in available_models %}
+            <option value="{{ model_name }}">{{ model_name }}</option>
+        {% endfor %}
+    </select>
+
+    <br><br>
+
+    <button type="submit">Predict Pattern</button>
+
+</form>
+    </section>
+
+    {% if prediction_results %}
+        <section class="prediction-output">
+            <h2>Prediction Results</h2>
+            <div class="result-card">
+                <h3 style="font-size:32px;">Predicted Pattern: <span>{{ prediction_results.pattern_name }}</span></h3>
+                <p style="font-size:22px;"><strong>Confidence:</strong> {{ prediction_results.confidence }} (using {{ prediction_results.model_used }})</p>
+
+                <h4>Explanation:</h4>
+                <p style="font-size:22px;">{{ prediction_results.explanation }}</p>
+
+                <h4>UML Diagram:</h4>
+
+                <div class="uml-diagram">
+                    <img src="{{ prediction_results.diagram_path }}" alt="UML Diagram for {{ prediction_results.pattern_name }}">
+                    <p class="diagram-note">Note: If the diagram doesn't appear, ensure Graphviz is installed on your system and the diagrams were generated successfully.</p>
+                </div>
+            </div>
+        </section>
+    {% endif %}
+{% endblock %}
